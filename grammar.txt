@@ -1,0 +1,12 @@
+Nonterminals
+L = LOCATION
+O = OBJECT
+P = PHRASE (verb, also including phrases like 'als nächstes')
+
+Pre-terminals are slot names, terminals are the slot values, to be inserted
+
+Production rules for 1st item utterances
+S -> O | O L | P O | P O L | L O | L P O
+O -> object | article object | adjective object | article adjective object | particle adjective object | particle article adjective object | particle article object
+L -> L L | L image | particle L | location | location_transitive O | location_ditransitive O 'und' O
+P -> verb

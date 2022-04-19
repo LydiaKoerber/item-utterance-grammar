@@ -1,0 +1,1238 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "objekt suchen",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": [
+                        "abbrechen",
+                        "abbruch",
+                        "ich will aufhören",
+                        "spiel abbrechen"
+                    ]
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": [
+                        "ich brauche Hilfe",
+                        "hilf mir",
+                        "Hilfe"
+                    ]
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": [
+                        "aufhören",
+                        "ciao",
+                        "tschüss"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "CustomYesIntent",
+                    "slots": [],
+                    "samples": [
+                        "ja bitte",
+                        "janz jenau",
+                        "exakt",
+                        "super",
+                        "jaha",
+                        "Jep",
+                        "Ganz genau",
+                        "Jawoll",
+                        "Richtig",
+                        "das ist es",
+                        "dat isses",
+                        "dett isses",
+                        "dett meen ick",
+                        "datt mein ich wa",
+                        "datt meen ick",
+                        "das meine ich",
+                        "klar",
+                        "na klar",
+                        "okidoki",
+                        "ok",
+                        "jenau",
+                        "jo",
+                        "jap",
+                        "jup",
+                        "genau",
+                        "okay",
+                        "Unbedingt",
+                        "Jor",
+                        "Ja"
+                    ]
+                },
+                {
+                    "name": "CustomNoIntent",
+                    "slots": [
+                        {
+                            "name": "smartspeaker",
+                            "type": "smartspeaker"
+                        }
+                    ],
+                    "samples": [
+                        "nein das meine ich nicht",
+                        "nein nicht das",
+                        "nee {smartspeaker}",
+                        "ist das dein ernst {smartspeaker}",
+                        "nein {smartspeaker}",
+                        "dein ernst {smartspeaker}",
+                        "eher nicht",
+                        "ist das dein ernst",
+                        "willst du mich verarschen",
+                        "nicht das",
+                        "ne",
+                        "Nein danke",
+                        "Nö",
+                        "Nee",
+                        "Nein"
+                    ]
+                },
+                {
+                    "name": "StartGameIntent",
+                    "slots": [],
+                    "samples": [
+                        "Start",
+                        "Spiel beginnen",
+                        "wir können anfangen",
+                        "los",
+                        "weiter",
+                        "los geht's",
+                        "starte das Spiel",
+                        "spiel starten"
+                    ]
+                },
+                {
+                    "name": "InstructionIntent",
+                    "slots": [],
+                    "samples": [
+                        "ich brauche eine anleitung",
+                        "erklär wie das funktioniert",
+                        "erklär wie das geht",
+                        "was genau soll ich machen",
+                        "wie geht das Spiel",
+                        "anleitung bitte",
+                        "anleitung",
+                        "gib mir eine Beschreibung",
+                        "wie funktioniert das Spiel",
+                        "wie funktioniert das",
+                        "erklär mir das Spiel"
+                    ]
+                },
+                {
+                    "name": "EndOfGameIntent",
+                    "slots": [],
+                    "samples": []
+                },
+                {
+                    "name": "NewGameIntent",
+                    "slots": [],
+                    "samples": [
+                        "neu anfangen",
+                        "neue Runde",
+                        "ich will nochmal spielen"
+                    ]
+                },
+                {
+                    "name": "ItemsIntent",
+                    "slots": [
+                        {
+                            "name": "article",
+                            "type": "article"
+                        },
+                        {
+                            "name": "object",
+                            "type": "object"
+                        },
+                        {
+                            "name": "location",
+                            "type": "location"
+                        },
+                        {
+                            "name": "location_transitive",
+                            "type": "location_transitive"
+                        },
+                        {
+                            "name": "location_ditransitive",
+                            "type": "location_ditransitive"
+                        },
+                        {
+                            "name": "particle",
+                            "type": "particle"
+                        },
+                        {
+                            "name": "rel_object",
+                            "type": "object"
+                        },
+                        {
+                            "name": "adjective",
+                            "type": "adjective"
+                        },
+                        {
+                            "name": "rel_adjective",
+                            "type": "adjective"
+                        },
+                        {
+                            "name": "verb",
+                            "type": "verb"
+                        },
+                        {
+                            "name": "image",
+                            "type": "image"
+                        }
+                    ],
+                    "samples": [
+                        "{location} {image} {verb} {article} {object}",
+                        "{verb} {article} {adjective} {object} mit {article} {rel_object}",
+                        "{verb} {article} {adjective} {object} mit {article} {rel_adjective} {rel_object} {location} des Bildes",
+                        "{verb} {article} {adjective} {object} mit {article} {rel_adjective} {rel_object} {location}",
+                        "{verb} {article} {object} mit {article} {rel_adjective} {rel_object}",
+                        "{verb} {article} {adjective} {object} mit {article} {rel_adjective} {rel_object}",
+                        "{verb} {article} {adjective} {object}",
+                        "{verb} {article} {adjective} {object} {location} {location_transitive} {article} {rel_adjective} {rel_object}",
+                        "{verb} {article} {object} {location} {location} {article} {rel_object}",
+                        "{verb} {article} {adjective} {object} {location} {location} {article} {rel_adjective} {rel_object}",
+                        "{verb} {article} {adjective} {object} {location} {location} {article} {rel_object}",
+                        "{verb} {article} {adjective} {adjective} {object} {location_transitive} {article} {rel_object}",
+                        "{verb} {article} {adjective} {adjective} {object} {location}",
+                        "{verb} {article} {adjective} {adjective} {object}",
+                        "{verb} {article} {object} {location_transitive} {article} {rel_adjective} {rel_object}",
+                        "{verb} {article} {object} mit {adjective} {rel_object}",
+                        "{verb} {adjective} {object}",
+                        "{verb} {article} {adjective} {object} {location_transitive} {article} {rel_object}",
+                        "{verb} {article} {adjective} {object} {location_transitive} {article} {rel_object} {location}",
+                        "{verb} {article} {adjective} {object} {particle} {location}",
+                        "{verb} {article} {adjective} {object} {location_ditransitive} {article} {rel_object} und {article} {rel_object}",
+                        "{verb} {article} {adjective} {object} {particle} {location} des Bildes",
+                        "{verb} {article} {adjective} {object} {particle} {location} im Bild",
+                        "{verb} {article} {adjective} {object} {particle} {location_ditransitive} {article} {rel_object} und {article} {rel_object}",
+                        "{verb} {article} {adjective} {object} {particle} {location_transitive} {article} {rel_object} {location}",
+                        "{verb} {article} {adjective} {object} {particle} {location_transitive} {article} {rel_object}",
+                        "{verb} {article} {adjective} {object} {location} im Bild",
+                        "{verb} {article} {adjective} {object} {location} des Bildes",
+                        "{verb} {article} {adjective} {object} {location}",
+                        "{verb} {article} {object} {location_transitive} {article} {rel_object}",
+                        "{verb} {article} {object} {location_transitive} {article} {rel_object} {location}",
+                        "{verb} {article} {object} {particle} {location}",
+                        "{verb} {article} {object} {location_ditransitive} {article} {rel_object} und {article} {rel_object}",
+                        "{verb} {article} {object} {particle} {location} des Bildes",
+                        "{verb} {article} {object} {particle} {location} im Bild",
+                        "{verb} {article} {object} {particle} {location_ditransitive} {article} {rel_object} und {article} {rel_object}",
+                        "{verb} {article} {object} {particle} {location_transitive} {article} {rel_object} {location}",
+                        "{verb} {article} {object} {particle} {location_transitive} {article} {rel_object}",
+                        "{verb} {article} {object} {location} im Bild",
+                        "{verb} {article} {object} {location}",
+                        "{verb} {article} {object}",
+                        "{verb} {object}",
+                        "{location} {location}",
+                        "{article} {object} mit {article} {rel_adjective} {rel_object}",
+                        "{article} {adjective} {object} mit {article} {rel_object}",
+                        "{article} {adjective} {object} mit {article} {rel_adjective} {rel_object} {location} des Bildes",
+                        "{article} {adjective} {object} mit {article} {rel_adjective} {rel_object} {location}",
+                        "{article}  {object} mit {article} {rel_adjective} {rel_object}",
+                        "{article} {adjective} {object} mit {article} {rel_adjective} {rel_object}",
+                        "{article} {adjective} {object}",
+                        "{article} {adjective} {object} {location} {location_transitive} {article} {rel_adjective} {rel_object}",
+                        "{article}  {object} {location} {location} {article} {rel_object}",
+                        "{article} {adjective} {object} {location} {location} {article} {rel_adjective} {rel_object}",
+                        "{article} {adjective} {object} {location} {location} {article} {rel_object}",
+                        "{location} des bildes ist {article} {adjective} {object} {location_transitive} {article} {rel_adjective} {rel_object}",
+                        "{location} des bildes ist {article} {adjective} {object}",
+                        "{location} des bildes gibt es {article} {adjective} {object}",
+                        "{article} {adjective} {object} {location} {article} {rel_adjective} {rel_object}",
+                        "{article} {adjective} {adjective} {object} {location_transitive} {article} {rel_object}",
+                        "{article} {adjective} {adjective} {object} {location}",
+                        "{article} {adjective} {adjective} {object}",
+                        "{article} {object} {location_transitive} {article} {rel_adjective} {rel_object}",
+                        "{article} {object} mit {adjective} {rel_object}",
+                        "{adjective} {object}",
+                        "{article} {adjective} {object}  {location_transitive} {article} {rel_object}     ",
+                        "{article} {adjective} {object} {location_transitive} {article} {rel_object} {location}     ",
+                        "{article} {adjective} {object} {particle} {location}       ",
+                        "{article} {adjective} {object}  {location_ditransitive} {article} {rel_object}  und  {article} {rel_object}",
+                        "{article} {adjective} {object} {particle} {location}  des Bildes    ",
+                        "{article} {adjective} {object} {particle} {location}  im Bild    ",
+                        "{article} {adjective} {object} {particle} {location_ditransitive} {article} {rel_object}  und  {article} {rel_object}",
+                        "{article} {adjective} {object} {particle} {location_transitive} {article} {rel_object} {location}    ",
+                        "{article} {adjective} {object} {particle} {location_transitive} {article} {rel_object}     ",
+                        "{article} {adjective} {object} {location}  im Bild     ",
+                        "{article} {adjective} {object} {location}  des Bildes     ",
+                        "{article} {adjective} {object} {location}        ",
+                        "{article} {object}  {location_transitive} {article} {rel_object}",
+                        "{article} {object} {location_transitive} {article} {rel_object} {location}",
+                        "{article} {object} {particle} {location}",
+                        "{article} {object}  {location_ditransitive} {article} {rel_object}  und  {article} {rel_object}",
+                        "{article} {object} {particle} {location}  des Bildes",
+                        "{article} {object} {particle} {location}  im Bild",
+                        "{article} {object} {particle} {location_ditransitive} {article} {rel_object}  und  {article} {rel_object}",
+                        "{article} {object} {particle} {location_transitive} {article} {rel_object} {location}",
+                        "{article} {object} {particle} {location_transitive} {article} {rel_object}",
+                        "{article} {object} {location}  im Bild",
+                        "{article} {object} {location}  des Bildes",
+                        "{article} {object} {location}",
+                        "{object}",
+                        "{article}  {object} "
+                    ]
+                },
+                {
+                    "name": "ChangePersonalityIntent",
+                    "slots": [
+                        {
+                            "name": "smartspeaker",
+                            "type": "smartspeaker"
+                        }
+                    ],
+                    "samples": [
+                        "{smartspeaker}  sprich mal hochdeutsch",
+                        "{smartspeaker}  Wechsle deine Stimme",
+                        "{smartspeaker} red mal anders",
+                        "{smartspeaker} sprich mal dialekt",
+                        "hol den hans",
+                        "hol die hertha",
+                        "hol hans",
+                        "hol herta",
+                        "hol hertha",
+                        "sprich mal dialekt",
+                        "berliner mal",
+                        "red mal anders",
+                        "ich verstehe deinen akzent nicht",
+                        "ich verstehe deinen dialekt nicht",
+                        "sprich mal hochdeutsch",
+                        "kannst du auch anders reden",
+                        "Wechsle deine Stimme",
+                        "Ändere deine Stimme",
+                        "Stimme wechseln",
+                        "andere Stimme",
+                        "hol deine Kollegin",
+                        "hol deinen Kollegen",
+                        "ich will eine andere Stimme"
+                    ]
+                },
+                {
+                    "name": "ListAllItemsIntent",
+                    "slots": [],
+                    "samples": [
+                        "ist das Rätsel schon gelöst",
+                        "haben wir das Rätsel schon gelöst",
+                        "habe ich das Rätsel schon gelöst",
+                        "wat is schon fertig",
+                        "wat fehlt denn noch",
+                        "wat hab ick schon",
+                        "Inventar",
+                        "wie viele Punkte habe ich",
+                        "wie viele gegenstände fehlen noch",
+                        "wie viel fehlt mir noch",
+                        "was fehlt mir noch",
+                        "was ist schon fertig",
+                        "was habe ich schon",
+                        "was habe ich schon erraten",
+                        "was alles wurde schon beschrieben",
+                        "welche gegenstände sind schon fertig",
+                        "welche gegenstände habe ich schon erraten"
+                    ]
+                },
+                {
+                    "name": "AskForInstructionIntent",
+                    "slots": [],
+                    "samples": []
+                }
+            ],
+            "types": [
+                {
+                    "name": "article",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "etwas",
+                                "synonyms": [
+                                    "wat",
+                                    "was"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "dat"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "des"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "dor"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "ditt"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "dit"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "dieses",
+                                "synonyms": [
+                                    "diesem",
+                                    "diesen"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "diese"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "dieser"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "so eine"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "so ein",
+                                "synonyms": [
+                                    "so einen"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "eine"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "ein",
+                                "synonyms": [
+                                    "einen",
+                                    "einem"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "dem"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "den"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "das"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "die"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "der"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "object",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "other",
+                                "synonyms": [
+                                    "Absolvent",
+                                    "Student",
+                                    "Gesicht",
+                                    "Smiley",
+                                    "Sterne",
+                                    "Stern",
+                                    "Bildschirm",
+                                    "Podest",
+                                    "Binärcode",
+                                    "Stühle",
+                                    "Stuhl",
+                                    "Seeigel",
+                                    "Mine",
+                                    "Pfeile",
+                                    "Pfeil",
+                                    "Legobaustein",
+                                    "Legostein",
+                                    "Tisch",
+                                    "ABC",
+                                    "Molekül",
+                                    "Atom",
+                                    "Schrank",
+                                    "Delfin",
+                                    "Medaille",
+                                    "Tauben",
+                                    "Taube",
+                                    "Vögel",
+                                    "Vogel",
+                                    "Pfeile",
+                                    "Pfeil",
+                                    "Regenbogen",
+                                    "Reagenzglas",
+                                    "Schultasche",
+                                    "Säulen",
+                                    "Spinne",
+                                    "Wolken",
+                                    "Wolke",
+                                    "Blumentopf",
+                                    "Pflanze",
+                                    "Treppe",
+                                    "Lineal",
+                                    "Büro",
+                                    "Schreibtisch",
+                                    "Giraffenkopf",
+                                    "Giraffe",
+                                    "Zahnrad"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Ding",
+                                "synonyms": [
+                                    "Sachen",
+                                    "Sache",
+                                    "Teile",
+                                    "Gegenstände",
+                                    "Dinger",
+                                    "Dingens",
+                                    "Dings",
+                                    "Objekt",
+                                    "Gegenstand",
+                                    "Teil"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Uhr"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Würfel",
+                                "synonyms": [
+                                    "Buchstabenwürfel"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Terminal",
+                                "synonyms": [
+                                    "Programmfenster",
+                                    "Bildschirm",
+                                    "Computerbildschirm",
+                                    "Konsole"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Teleskop",
+                                "synonyms": [
+                                    "Fernrohr"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Tafel",
+                                "synonyms": [
+                                    "Schultafel"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Stift",
+                                "synonyms": [
+                                    "Schreibutensil",
+                                    "Buntstift"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Spielkonsole",
+                                "synonyms": [
+                                    "Gameboy",
+                                    "Switch",
+                                    "Spielekonsole"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Raumschiff",
+                                "synonyms": [
+                                    "Spaceshuttle",
+                                    "Flugzeug"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Planet",
+                                "synonyms": [
+                                    "Saturn"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Person",
+                                "synonyms": [
+                                    "Ärztin",
+                                    "Arzt",
+                                    "Ingenieurin",
+                                    "Ingenieur",
+                                    "Mann",
+                                    "Frau",
+                                    "Wissenschaftlerin",
+                                    "Wissenschaftler",
+                                    "Forscherin",
+                                    "Forscher",
+                                    "Personen",
+                                    "Mensch"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Mikroskop",
+                                "synonyms": [
+                                    "Teleskop"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Labor",
+                                "synonyms": [
+                                    "Kasten",
+                                    "Lab"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Kurven",
+                                "synonyms": [
+                                    "Grafiken",
+                                    "Diagramm",
+                                    "Wellen"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Glühbirne",
+                                "synonyms": [
+                                    "Birne"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Gleichung",
+                                "synonyms": [
+                                    "Screen"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Kinder",
+                                "synonyms": [
+                                    "Demo",
+                                    "Klimaaktivistinnen",
+                                    "Klimaaktivisten",
+                                    "Fridays for Future",
+                                    "FFF",
+                                    "Kinder mit Flagge",
+                                    "Friends For Future",
+                                    "Friends",
+                                    "Future"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Europa",
+                                "synonyms": [
+                                    "Flagge",
+                                    "Fahne",
+                                    "EU",
+                                    "Europaflagge"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Diagramm",
+                                "synonyms": [
+                                    "Tafel",
+                                    "Koordinatensystem"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Buch",
+                                "synonyms": [
+                                    "Heft"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Boot",
+                                "synonyms": [
+                                    "Schiff"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Astronautinnen",
+                                "synonyms": [
+                                    "Drillinge",
+                                    "Raumfahrerinnen",
+                                    "Frauen"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Ballon",
+                                "synonyms": [
+                                    "Luftballon",
+                                    "Ball"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Biene",
+                                "synonyms": [
+                                    "Tier",
+                                    "Insekt"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Globus",
+                                "synonyms": [
+                                    "Weltkugel",
+                                    "Erdkugel"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "location",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "im zentrum"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "in der ecke"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "am oberen rand"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "am unteren rand"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "am linken rand"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "am rechten rand"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "auf der linken seite"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "auf der rechten seite"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "da"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "zentral "
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "in der Mitte"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "links"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "rechts"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "unten"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "oben"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "location_transitive",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "mit"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "vor"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "hinter"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "gegenüber von "
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "bei"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "in der Nähe von"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "rechts neben"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "links neben"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "neben"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "unter"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "über"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "location_ditransitive",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "zwischen"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "particle",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "schräg"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "da "
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "ganz "
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "grob"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "direkt"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "so "
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "ungefähr",
+                                "synonyms": [
+                                    "halbwegs",
+                                    "einigermaßen",
+                                    "relativ"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "genau"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "adjective",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "ähnlich",
+                                "synonyms": [
+                                    "ähnliche"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "bunt",
+                                "synonyms": [
+                                    "bunte",
+                                    "bunten"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "schwarz",
+                                "synonyms": [
+                                    "schwarze",
+                                    "schwarzen"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "weiße",
+                                "synonyms": [
+                                    "weißen"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "lächelnd",
+                                "synonyms": [
+                                    "lächelnde"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "blau",
+                                "synonyms": [
+                                    "blaue"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "rot",
+                                "synonyms": [
+                                    "roten",
+                                    "rotes",
+                                    "rote"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "zwei"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "drei"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "gelb",
+                                "synonyms": [
+                                    "gelbes",
+                                    "gelbe"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "grün",
+                                "synonyms": [
+                                    "grünen",
+                                    "grüne"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "groß",
+                                "synonyms": [
+                                    "große"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "klein",
+                                "synonyms": [
+                                    "kleine"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "smartspeaker",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "hertha",
+                                "synonyms": [
+                                    "herta"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "hans"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "alexa"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "verb",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "hat"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "zeigt "
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "was ist"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "ist",
+                                "synonyms": [
+                                    "fliegt",
+                                    "befindet sich",
+                                    "schwebt",
+                                    "schwimmt",
+                                    "liegt",
+                                    "steht"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "als nächstes",
+                                "synonyms": [
+                                    "dann noch",
+                                    "dann",
+                                    "weiter geht's mit",
+                                    "jetzt",
+                                    "und jetzt",
+                                    "weiter mit"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "da steht",
+                                "synonyms": [
+                                    "da schwebt",
+                                    "da fliegt",
+                                    "da schwimmt",
+                                    "da ist",
+                                    "da liegt"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "du siehst",
+                                "synonyms": [
+                                    "siehst du"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "nimm",
+                                "synonyms": [
+                                    "bitte finde",
+                                    "finde",
+                                    "zeich mal",
+                                    "zeich ma",
+                                    "zeich",
+                                    "bitte zeig mir",
+                                    "zeig mir",
+                                    "bitte zeige",
+                                    "zeig mal",
+                                    "zeig",
+                                    "bitte nimm",
+                                    "bitte wähle",
+                                    "wähl mal",
+                                    "wähl",
+                                    "wähle mal",
+                                    "wähle",
+                                    "nimm mal"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "ich nehme",
+                                "synonyms": [
+                                    "ich beschreibe",
+                                    "ich sehe",
+                                    "ich meine",
+                                    "ich wähle",
+                                    "ich sehe",
+                                    "ich denke an"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "es ist",
+                                "synonyms": [
+                                    "der nächste gegenstand ist",
+                                    "das nächste objekt ist",
+                                    "das ding befindet sich",
+                                    "es befindet sich",
+                                    "das befindet sich",
+                                    "es gibt",
+                                    "das ding ist",
+                                    "der gegenstand ist",
+                                    "das objekt ist",
+                                    "das ist"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "image",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "Bild",
+                                "synonyms": [
+                                    "des Wimmelbilds",
+                                    "des Wimmelbildes",
+                                    "im Wimmelbild",
+                                    "vom Wimmelbild",
+                                    "am Bild",
+                                    "vom Bild",
+                                    "des Bilds",
+                                    "des Bildes",
+                                    "im Bild"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
