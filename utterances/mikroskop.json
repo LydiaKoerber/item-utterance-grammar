@@ -1,0 +1,9584 @@
+{
+    "0": [
+        [
+            "bitte zeig mir",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte zeig mir",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte zeig mir",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte zeig mir",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte zeig mir",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "zeig mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "zeig mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "zeig mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "zeig mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähl mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähl mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähl mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähl mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähl mal",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähl mal",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähl mal",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähl mal",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähl mal",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähl mal",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähl mal",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähl mal",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte finde",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte finde",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte finde",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte finde",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "finde",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "finde",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "finde",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "finde",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "finde",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "finde",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "finde",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "finde",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "finde",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "finde",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "finde",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "finde",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "nimm mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "nimm mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "nimm mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "nimm mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich denke an",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich denke an",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich denke an",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich denke an",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich denke an",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich denke an",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich denke an",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich denke an",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich denke an",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich denke an",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich denke an",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich denke an",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähle",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähle",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "siehst du",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "siehst du",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "siehst du",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "siehst du",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "siehst du",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "siehst du",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "siehst du",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "siehst du",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "siehst du",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "siehst du",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "siehst du",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "siehst du",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "zeig",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "zeig",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "zeig",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "zeig",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "zeig",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "zeig",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "zeig",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "zeig",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "zeig",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "zeig",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "zeig",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "zeig",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähl",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähl",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähl",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähl",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähl",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähl",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähl",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähl",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähl",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähl",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähl",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähl",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "zeig mir",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "zeig mir",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "zeig mir",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "zeig mir",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "zeig mir",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "zeig mir",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "zeig mir",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "zeig mir",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "zeig mir",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "zeig mir",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "zeig mir",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "zeig mir",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich meine",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich meine",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich meine",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich meine",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich meine",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich meine",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich meine",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich meine",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich meine",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich meine",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich meine",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich meine",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "nimm",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "nimm",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "nimm",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "nimm",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "nimm",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "nimm",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "nimm",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "nimm",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "nimm",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "nimm",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "nimm",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "nimm",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte nimm",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte nimm",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte nimm",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte nimm",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte nimm",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte nimm",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte nimm",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte nimm",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte nimm",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte nimm",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte nimm",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte nimm",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "und jetzt",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "und jetzt",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "und jetzt",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "und jetzt",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "und jetzt",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "und jetzt",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "und jetzt",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "und jetzt",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "und jetzt",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "und jetzt",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "und jetzt",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "und jetzt",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "das objekt ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "das objekt ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "das objekt ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "das objekt ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "das objekt ist",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "das objekt ist",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "das objekt ist",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "das objekt ist",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "das objekt ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "das objekt ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "das objekt ist",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "das objekt ist",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "es ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "es ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "es ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "es ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "es ist",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "es ist",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "es ist",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "es ist",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "es ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "es ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "es ist",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "es ist",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "das ding ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "das ding ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "das ding ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "das ding ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "das ding ist",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "das ding ist",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "das ding ist",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "das ding ist",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "das ding ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "das ding ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "das ding ist",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "das ding ist",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "dann noch",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "dann noch",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "dann noch",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "dann noch",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "dann noch",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "dann noch",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "dann noch",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "dann noch",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "dann noch",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "dann noch",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "dann noch",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "dann noch",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "dann",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "dann",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "dann",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "dann",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "dann",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "dann",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "dann",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "dann",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "dann",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "dann",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "dann",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "dann",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "der gegenstand ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "der gegenstand ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "der gegenstand ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "der gegenstand ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "der gegenstand ist",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "der gegenstand ist",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "der gegenstand ist",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "der gegenstand ist",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "der gegenstand ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "der gegenstand ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "der gegenstand ist",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "der gegenstand ist",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "als nächstes",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "als nächstes",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "als nächstes",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "als nächstes",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "als nächstes",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "als nächstes",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "als nächstes",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "als nächstes",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "als nächstes",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "als nächstes",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "als nächstes",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "als nächstes",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte zeige",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte zeige",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte zeige",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte zeige",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte zeige",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte zeige",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte zeige",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte zeige",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte zeige",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte zeige",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte zeige",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte zeige",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "das nächste objekt ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "das nächste objekt ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "das nächste objekt ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "das nächste objekt ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "das nächste objekt ist",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "das nächste objekt ist",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "das nächste objekt ist",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "das nächste objekt ist",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "das nächste objekt ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "das nächste objekt ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "das nächste objekt ist",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "das nächste objekt ist",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "jetzt",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "jetzt",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "jetzt",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "jetzt",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "jetzt",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "jetzt",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "jetzt",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "jetzt",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "jetzt",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "jetzt",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "jetzt",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "jetzt",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "das ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "das ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "das ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "das ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "das ist",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "das ist",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "das ist",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "das ist",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "das ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "das ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "das ist",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "das ist",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ]
+    ],
+    "1": [
+        [
+            "bitte zeig mir",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte zeig mir",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte zeig mir",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte zeig mir",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte zeig mir",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "zeig mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "zeig mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "zeig mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "zeig mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähl mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähl mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähl mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähl mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähl mal",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähl mal",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähl mal",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähl mal",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähl mal",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähl mal",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähl mal",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähl mal",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte finde",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte finde",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte finde",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte finde",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "finde",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "finde",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "finde",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "finde",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "finde",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "finde",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "finde",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "finde",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "finde",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "finde",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "finde",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "finde",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "nimm mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "nimm mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "nimm mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "nimm mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich denke an",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich denke an",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich denke an",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich denke an",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich denke an",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich denke an",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich denke an",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich denke an",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich denke an",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich denke an",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich denke an",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich denke an",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähle",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähle",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "siehst du",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "siehst du",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "siehst du",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "siehst du",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "siehst du",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "siehst du",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "siehst du",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "siehst du",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "siehst du",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "siehst du",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "siehst du",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "siehst du",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "zeig",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "zeig",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "zeig",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "zeig",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "zeig",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "zeig",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "zeig",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "zeig",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "zeig",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "zeig",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "zeig",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "zeig",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähl",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähl",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähl",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähl",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähl",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähl",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähl",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähl",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähl",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähl",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähl",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähl",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "zeig mir",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "zeig mir",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "zeig mir",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "zeig mir",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "zeig mir",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "zeig mir",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "zeig mir",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "zeig mir",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "zeig mir",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "zeig mir",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "zeig mir",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "zeig mir",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich meine",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich meine",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich meine",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich meine",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich meine",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich meine",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich meine",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich meine",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich meine",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich meine",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich meine",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich meine",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "nimm",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "nimm",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "nimm",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "nimm",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "nimm",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "nimm",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "nimm",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "nimm",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "nimm",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "nimm",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "nimm",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "nimm",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte nimm",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte nimm",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte nimm",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte nimm",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte nimm",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte nimm",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte nimm",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte nimm",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte nimm",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte nimm",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte nimm",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte nimm",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "und jetzt",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "und jetzt",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "und jetzt",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "und jetzt",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "und jetzt",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "und jetzt",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "und jetzt",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "und jetzt",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "und jetzt",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "und jetzt",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "und jetzt",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "und jetzt",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "das objekt ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "das objekt ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "das objekt ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "das objekt ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "das objekt ist",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "das objekt ist",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "das objekt ist",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "das objekt ist",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "das objekt ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "das objekt ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "das objekt ist",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "das objekt ist",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "es ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "es ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "es ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "es ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "es ist",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "es ist",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "es ist",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "es ist",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "es ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "es ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "es ist",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "es ist",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "das ding ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "das ding ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "das ding ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "das ding ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "das ding ist",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "das ding ist",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "das ding ist",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "das ding ist",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "das ding ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "das ding ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "das ding ist",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "das ding ist",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "dann noch",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "dann noch",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "dann noch",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "dann noch",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "dann noch",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "dann noch",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "dann noch",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "dann noch",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "dann noch",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "dann noch",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "dann noch",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "dann noch",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "dann",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "dann",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "dann",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "dann",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "dann",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "dann",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "dann",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "dann",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "dann",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "dann",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "dann",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "dann",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "der gegenstand ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "der gegenstand ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "der gegenstand ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "der gegenstand ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "der gegenstand ist",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "der gegenstand ist",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "der gegenstand ist",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "der gegenstand ist",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "der gegenstand ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "der gegenstand ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "der gegenstand ist",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "der gegenstand ist",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "als nächstes",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "als nächstes",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "als nächstes",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "als nächstes",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "als nächstes",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "als nächstes",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "als nächstes",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "als nächstes",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "als nächstes",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "als nächstes",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "als nächstes",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "als nächstes",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte zeige",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte zeige",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte zeige",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte zeige",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte zeige",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte zeige",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte zeige",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte zeige",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte zeige",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte zeige",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte zeige",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte zeige",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "das nächste objekt ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "das nächste objekt ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "das nächste objekt ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "das nächste objekt ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "das nächste objekt ist",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "das nächste objekt ist",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "das nächste objekt ist",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "das nächste objekt ist",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "das nächste objekt ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "das nächste objekt ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "das nächste objekt ist",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "das nächste objekt ist",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "jetzt",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "jetzt",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "jetzt",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "jetzt",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "jetzt",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "jetzt",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "jetzt",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "jetzt",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "jetzt",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "jetzt",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "jetzt",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "jetzt",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "das ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "das ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "das ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "das ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "das ist",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "das ist",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "das ist",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "das ist",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "das ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "das ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "das ist",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "das ist",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ]
+    ],
+    "2": [
+        [
+            "bitte zeig mir",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte zeig mir",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte zeig mir",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte zeig mir",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte zeig mir",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "zeig mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "zeig mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "zeig mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "zeig mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähl mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähl mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähl mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähl mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähl mal",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähl mal",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähl mal",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähl mal",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähl mal",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähl mal",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähl mal",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähl mal",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte finde",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte finde",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte finde",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte finde",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "finde",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "finde",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "finde",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "finde",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "finde",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "finde",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "finde",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "finde",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "finde",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "finde",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "finde",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "finde",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "nimm mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "nimm mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "nimm mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "nimm mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich denke an",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich denke an",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich denke an",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich denke an",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich denke an",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich denke an",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich denke an",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich denke an",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich denke an",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich denke an",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich denke an",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich denke an",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähle",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähle",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "siehst du",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "siehst du",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "siehst du",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "siehst du",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "siehst du",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "siehst du",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "siehst du",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "siehst du",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "siehst du",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "siehst du",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "siehst du",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "siehst du",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "zeig",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "zeig",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "zeig",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "zeig",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "zeig",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "zeig",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "zeig",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "zeig",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "zeig",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "zeig",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "zeig",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "zeig",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähl",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähl",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähl",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähl",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähl",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähl",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähl",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähl",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähl",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähl",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähl",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähl",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "zeig mir",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "zeig mir",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "zeig mir",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "zeig mir",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "zeig mir",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "zeig mir",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "zeig mir",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "zeig mir",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "zeig mir",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "zeig mir",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "zeig mir",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "zeig mir",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich meine",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich meine",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich meine",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich meine",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich meine",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich meine",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich meine",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich meine",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich meine",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich meine",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich meine",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich meine",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "nimm",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "nimm",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "nimm",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "nimm",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "nimm",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "nimm",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "nimm",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "nimm",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "nimm",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "nimm",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "nimm",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "nimm",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte nimm",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte nimm",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte nimm",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte nimm",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte nimm",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte nimm",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte nimm",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte nimm",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte nimm",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte nimm",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte nimm",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte nimm",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "und jetzt",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "und jetzt",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "und jetzt",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "und jetzt",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "und jetzt",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "und jetzt",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "und jetzt",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "und jetzt",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "und jetzt",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "und jetzt",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "und jetzt",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "und jetzt",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "das objekt ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "das objekt ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "das objekt ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "das objekt ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "das objekt ist",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "das objekt ist",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "das objekt ist",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "das objekt ist",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "das objekt ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "das objekt ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "das objekt ist",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "das objekt ist",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "es ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "es ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "es ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "es ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "es ist",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "es ist",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "es ist",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "es ist",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "es ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "es ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "es ist",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "es ist",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "das ding ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "das ding ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "das ding ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "das ding ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "das ding ist",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "das ding ist",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "das ding ist",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "das ding ist",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "das ding ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "das ding ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "das ding ist",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "das ding ist",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "dann noch",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "dann noch",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "dann noch",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "dann noch",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "dann noch",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "dann noch",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "dann noch",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "dann noch",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "dann noch",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "dann noch",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "dann noch",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "dann noch",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "dann",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "dann",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "dann",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "dann",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "dann",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "dann",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "dann",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "dann",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "dann",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "dann",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "dann",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "dann",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "der gegenstand ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "der gegenstand ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "der gegenstand ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "der gegenstand ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "der gegenstand ist",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "der gegenstand ist",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "der gegenstand ist",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "der gegenstand ist",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "der gegenstand ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "der gegenstand ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "der gegenstand ist",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "der gegenstand ist",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "als nächstes",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "als nächstes",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "als nächstes",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "als nächstes",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "als nächstes",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "als nächstes",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "als nächstes",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "als nächstes",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "als nächstes",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "als nächstes",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "als nächstes",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "als nächstes",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte zeige",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte zeige",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte zeige",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte zeige",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte zeige",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte zeige",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte zeige",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte zeige",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte zeige",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte zeige",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte zeige",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte zeige",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "das nächste objekt ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "das nächste objekt ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "das nächste objekt ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "das nächste objekt ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "das nächste objekt ist",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "das nächste objekt ist",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "das nächste objekt ist",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "das nächste objekt ist",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "das nächste objekt ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "das nächste objekt ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "das nächste objekt ist",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "das nächste objekt ist",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "jetzt",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "jetzt",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "jetzt",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "jetzt",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "jetzt",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "jetzt",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "jetzt",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "jetzt",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "jetzt",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "jetzt",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "jetzt",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "jetzt",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "das ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "das ist",
+            "der",
+            "graue",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "das ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "das ist",
+            "der",
+            "grüne",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "das ist",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "das ist",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "das ist",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "das ist",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "das ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "das ist",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "das ist",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "das ist",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ]
+    ]
+}

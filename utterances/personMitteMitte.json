@@ -1,0 +1,6392 @@
+{
+    "0": [
+        [
+            "bitte zeig mir",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte zeig mir",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte zeig mir",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte zeig mir",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "es gibt",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "es gibt",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "es gibt",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "es gibt",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "es gibt",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "es gibt",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "es gibt",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "es gibt",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "zeig mal",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "zeig mal",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "zeig mal",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "zeig mal",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "zeig mal",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "zeig mal",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "zeig mal",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "zeig mal",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "wähl mal",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "wähl mal",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "wähl mal",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "wähl mal",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "wähl mal",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "wähl mal",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "wähl mal",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "wähl mal",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich nehme",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich nehme",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich nehme",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich nehme",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "bitte wähle",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte wähle",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte wähle",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte wähle",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "bitte finde",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte finde",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte finde",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte finde",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte finde",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte finde",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "bitte finde",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte finde",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "finde",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "finde",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "finde",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "finde",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "finde",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "finde",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "finde",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "finde",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "wähle mal",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "wähle mal",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "wähle mal",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "wähle mal",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich sehe",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich sehe",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich sehe",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich sehe",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "nimm mal",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "nimm mal",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "nimm mal",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "nimm mal",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "nimm mal",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "nimm mal",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "nimm mal",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "nimm mal",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich denke an",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich denke an",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich denke an",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich denke an",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich denke an",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich denke an",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich denke an",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich denke an",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich wähle",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich wähle",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich wähle",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich wähle",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "wähle",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "wähle",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "wähle",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "wähle",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "wähle",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "wähle",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "wähle",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "wähle",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "siehst du",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "siehst du",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "siehst du",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "siehst du",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "siehst du",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "siehst du",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "siehst du",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "siehst du",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "zeig",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "zeig",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "zeig",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "zeig",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "zeig",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "zeig",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "zeig",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "zeig",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich beschreibe",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich beschreibe",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich beschreibe",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich beschreibe",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "du siehst",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "du siehst",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "du siehst",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "du siehst",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "du siehst",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "du siehst",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "du siehst",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "du siehst",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "wähl",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "wähl",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "wähl",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "wähl",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "wähl",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "wähl",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "wähl",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "wähl",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "zeig mir",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "zeig mir",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "zeig mir",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "zeig mir",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "zeig mir",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "zeig mir",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "zeig mir",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "zeig mir",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich meine",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich meine",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich meine",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich meine",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich meine",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich meine",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich meine",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich meine",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "nimm",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "nimm",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "nimm",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "nimm",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "nimm",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "nimm",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "nimm",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "nimm",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "bitte nimm",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte nimm",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte nimm",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte nimm",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte nimm",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte nimm",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "bitte nimm",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte nimm",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "weiter mit",
+            "der",
+            "weißen",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "weiter mit",
+            "der",
+            "weißen",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "weiter mit",
+            "der",
+            "grauen",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "weiter mit",
+            "der",
+            "grauen",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "weiter gehts mit",
+            "der",
+            "weißen",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "weiter gehts mit",
+            "der",
+            "weißen",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "weiter gehts mit",
+            "der",
+            "grauen",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "weiter gehts mit",
+            "der",
+            "grauen",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "und jetzt",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "und jetzt",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "und jetzt",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "und jetzt",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "und jetzt",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "und jetzt",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "und jetzt",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "und jetzt",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "das objekt ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "das objekt ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "das objekt ist",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "das objekt ist",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "das objekt ist",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "das objekt ist",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "das objekt ist",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "das objekt ist",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "es ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "es ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "es ist",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "es ist",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "es ist",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "es ist",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "es ist",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "es ist",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "das ding ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "das ding ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "das ding ist",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "das ding ist",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "das ding ist",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "das ding ist",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "das ding ist",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "das ding ist",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "dann noch",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "dann noch",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "dann noch",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "dann noch",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "dann noch",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "dann noch",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "dann noch",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "dann noch",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "dann",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "dann",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "dann",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "dann",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "dann",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "dann",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "dann",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "dann",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "der gegenstand ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "der gegenstand ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "der gegenstand ist",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "der gegenstand ist",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "der gegenstand ist",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "der gegenstand ist",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "der gegenstand ist",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "der gegenstand ist",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "als nächstes",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "als nächstes",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "als nächstes",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "als nächstes",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "als nächstes",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "als nächstes",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "als nächstes",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "als nächstes",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte zeige",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte zeige",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "bitte zeige",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte zeige",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "bitte zeige",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte zeige",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte zeige",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte zeige",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "das nächste objekt ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "das nächste objekt ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "das nächste objekt ist",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "das nächste objekt ist",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "das nächste objekt ist",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "das nächste objekt ist",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "das nächste objekt ist",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "das nächste objekt ist",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "jetzt",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "jetzt",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "jetzt",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "jetzt",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "jetzt",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "jetzt",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "jetzt",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "jetzt",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "das ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "das ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "das ist",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "das ist",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "das ist",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "das ist",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "das ist",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "das ist",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ]
+    ],
+    "1": [
+        [
+            "bitte zeig mir",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte zeig mir",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte zeig mir",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte zeig mir",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "es gibt",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "es gibt",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "es gibt",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "es gibt",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "es gibt",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "es gibt",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "es gibt",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "es gibt",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "zeig mal",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "zeig mal",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "zeig mal",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "zeig mal",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "zeig mal",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "zeig mal",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "zeig mal",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "zeig mal",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "wähl mal",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "wähl mal",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "wähl mal",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "wähl mal",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "wähl mal",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "wähl mal",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "wähl mal",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "wähl mal",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich nehme",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich nehme",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich nehme",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich nehme",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "bitte wähle",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte wähle",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte wähle",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte wähle",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "bitte finde",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte finde",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte finde",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte finde",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte finde",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte finde",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "bitte finde",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte finde",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "finde",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "finde",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "finde",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "finde",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "finde",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "finde",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "finde",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "finde",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "wähle mal",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "wähle mal",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "wähle mal",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "wähle mal",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich sehe",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich sehe",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich sehe",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich sehe",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "nimm mal",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "nimm mal",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "nimm mal",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "nimm mal",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "nimm mal",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "nimm mal",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "nimm mal",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "nimm mal",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich denke an",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich denke an",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich denke an",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich denke an",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich denke an",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich denke an",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich denke an",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich denke an",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich wähle",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich wähle",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich wähle",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich wähle",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "wähle",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "wähle",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "wähle",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "wähle",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "wähle",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "wähle",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "wähle",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "wähle",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "siehst du",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "siehst du",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "siehst du",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "siehst du",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "siehst du",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "siehst du",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "siehst du",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "siehst du",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "zeig",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "zeig",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "zeig",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "zeig",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "zeig",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "zeig",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "zeig",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "zeig",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich beschreibe",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich beschreibe",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich beschreibe",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich beschreibe",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "du siehst",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "du siehst",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "du siehst",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "du siehst",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "du siehst",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "du siehst",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "du siehst",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "du siehst",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "wähl",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "wähl",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "wähl",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "wähl",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "wähl",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "wähl",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "wähl",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "wähl",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "zeig mir",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "zeig mir",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "zeig mir",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "zeig mir",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "zeig mir",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "zeig mir",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "zeig mir",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "zeig mir",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich meine",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich meine",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich meine",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich meine",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich meine",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich meine",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich meine",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich meine",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "nimm",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "nimm",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "nimm",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "nimm",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "nimm",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "nimm",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "nimm",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "nimm",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "bitte nimm",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte nimm",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte nimm",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte nimm",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte nimm",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte nimm",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "bitte nimm",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte nimm",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "weiter mit",
+            "der",
+            "weißen",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "weiter mit",
+            "der",
+            "weißen",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "weiter mit",
+            "der",
+            "grauen",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "weiter mit",
+            "der",
+            "grauen",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "weiter gehts mit",
+            "der",
+            "weißen",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "weiter gehts mit",
+            "der",
+            "weißen",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "weiter gehts mit",
+            "der",
+            "grauen",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "weiter gehts mit",
+            "der",
+            "grauen",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "und jetzt",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "und jetzt",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "und jetzt",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "und jetzt",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "und jetzt",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "und jetzt",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "und jetzt",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "und jetzt",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "das objekt ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "das objekt ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "das objekt ist",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "das objekt ist",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "das objekt ist",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "das objekt ist",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "das objekt ist",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "das objekt ist",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "es ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "es ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "es ist",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "es ist",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "es ist",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "es ist",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "es ist",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "es ist",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "das ding ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "das ding ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "das ding ist",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "das ding ist",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "das ding ist",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "das ding ist",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "das ding ist",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "das ding ist",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "dann noch",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "dann noch",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "dann noch",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "dann noch",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "dann noch",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "dann noch",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "dann noch",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "dann noch",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "dann",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "dann",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "dann",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "dann",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "dann",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "dann",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "dann",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "dann",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "der gegenstand ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "der gegenstand ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "der gegenstand ist",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "der gegenstand ist",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "der gegenstand ist",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "der gegenstand ist",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "der gegenstand ist",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "der gegenstand ist",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "als nächstes",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "als nächstes",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "als nächstes",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "als nächstes",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "als nächstes",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "als nächstes",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "als nächstes",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "als nächstes",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte zeige",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte zeige",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "bitte zeige",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte zeige",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "bitte zeige",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte zeige",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte zeige",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte zeige",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "das nächste objekt ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "das nächste objekt ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "das nächste objekt ist",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "das nächste objekt ist",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "das nächste objekt ist",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "das nächste objekt ist",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "das nächste objekt ist",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "das nächste objekt ist",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "jetzt",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "jetzt",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "jetzt",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "jetzt",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "jetzt",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "jetzt",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "jetzt",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "jetzt",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "das ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "das ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "das ist",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "das ist",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "das ist",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "das ist",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "das ist",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "das ist",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ]
+    ],
+    "2": [
+        [
+            "bitte zeig mir",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte zeig mir",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte zeig mir",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte zeig mir",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "es gibt",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "es gibt",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "es gibt",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "es gibt",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "es gibt",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "es gibt",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "es gibt",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "es gibt",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "zeig mal",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "zeig mal",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "zeig mal",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "zeig mal",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "zeig mal",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "zeig mal",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "zeig mal",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "zeig mal",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "wähl mal",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "wähl mal",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "wähl mal",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "wähl mal",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "wähl mal",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "wähl mal",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "wähl mal",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "wähl mal",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich nehme",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich nehme",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich nehme",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich nehme",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "bitte wähle",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte wähle",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte wähle",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte wähle",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "bitte finde",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte finde",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte finde",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte finde",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte finde",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte finde",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "bitte finde",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte finde",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "finde",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "finde",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "finde",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "finde",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "finde",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "finde",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "finde",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "finde",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "wähle mal",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "wähle mal",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "wähle mal",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "wähle mal",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich sehe",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich sehe",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich sehe",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich sehe",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "nimm mal",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "nimm mal",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "nimm mal",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "nimm mal",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "nimm mal",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "nimm mal",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "nimm mal",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "nimm mal",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich denke an",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich denke an",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich denke an",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich denke an",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich denke an",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich denke an",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich denke an",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich denke an",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich wähle",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich wähle",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich wähle",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich wähle",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "wähle",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "wähle",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "wähle",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "wähle",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "wähle",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "wähle",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "wähle",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "wähle",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "siehst du",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "siehst du",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "siehst du",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "siehst du",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "siehst du",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "siehst du",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "siehst du",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "siehst du",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "zeig",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "zeig",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "zeig",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "zeig",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "zeig",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "zeig",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "zeig",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "zeig",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich beschreibe",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich beschreibe",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich beschreibe",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich beschreibe",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "du siehst",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "du siehst",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "du siehst",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "du siehst",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "du siehst",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "du siehst",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "du siehst",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "du siehst",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "wähl",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "wähl",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "wähl",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "wähl",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "wähl",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "wähl",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "wähl",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "wähl",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "zeig mir",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "zeig mir",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "zeig mir",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "zeig mir",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "zeig mir",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "zeig mir",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "zeig mir",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "zeig mir",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich meine",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich meine",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich meine",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "ich meine",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "ich meine",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich meine",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "ich meine",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "ich meine",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "nimm",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "nimm",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "nimm",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "nimm",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "nimm",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "nimm",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "nimm",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "nimm",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "bitte nimm",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte nimm",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte nimm",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte nimm",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte nimm",
+            "den",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte nimm",
+            "den",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "bitte nimm",
+            "den",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte nimm",
+            "den",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "weiter mit",
+            "der",
+            "weißen",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "weiter mit",
+            "der",
+            "weißen",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "weiter mit",
+            "der",
+            "grauen",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "weiter mit",
+            "der",
+            "grauen",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "weiter gehts mit",
+            "der",
+            "weißen",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "weiter gehts mit",
+            "der",
+            "weißen",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "weiter gehts mit",
+            "der",
+            "grauen",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "weiter gehts mit",
+            "der",
+            "grauen",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "weißen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "weißen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "und jetzt",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "und jetzt",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "und jetzt",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "und jetzt",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "und jetzt",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "und jetzt",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "und jetzt",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "und jetzt",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "das objekt ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "das objekt ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "das objekt ist",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "das objekt ist",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "das objekt ist",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "das objekt ist",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "das objekt ist",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "das objekt ist",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "es ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "es ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "es ist",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "es ist",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "es ist",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "es ist",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "es ist",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "es ist",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "das ding ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "das ding ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "das ding ist",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "das ding ist",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "das ding ist",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "das ding ist",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "das ding ist",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "das ding ist",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "dann noch",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "dann noch",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "dann noch",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "dann noch",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "dann noch",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "dann noch",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "dann noch",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "dann noch",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "dann",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "dann",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "dann",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "dann",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "dann",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "dann",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "dann",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "dann",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "der gegenstand ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "der gegenstand ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "der gegenstand ist",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "der gegenstand ist",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "der gegenstand ist",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "der gegenstand ist",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "der gegenstand ist",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "der gegenstand ist",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "als nächstes",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "als nächstes",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "als nächstes",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "als nächstes",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "als nächstes",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "als nächstes",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "als nächstes",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "als nächstes",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte zeige",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte zeige",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "bitte zeige",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "bitte zeige",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "bitte zeige",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte zeige",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "bitte zeige",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "bitte zeige",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "das nächste objekt ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "das nächste objekt ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "das nächste objekt ist",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "das nächste objekt ist",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "das nächste objekt ist",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "das nächste objekt ist",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "das nächste objekt ist",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "das nächste objekt ist",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "jetzt",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "jetzt",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "jetzt",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "jetzt",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "jetzt",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "jetzt",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "jetzt",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "jetzt",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "der nächste gegenstand ist",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "das ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "das ist",
+            "der",
+            "weiße",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "das ist",
+            "der",
+            "graue",
+            "Mensch",
+            "in der mitte"
+        ],
+        [
+            "das ist",
+            "der",
+            "graue",
+            "Mensch",
+            "im zentrum"
+        ],
+        [
+            "das ist",
+            "die",
+            "weiße",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "das ist",
+            "die",
+            "weiße",
+            "Person",
+            "im zentrum"
+        ],
+        [
+            "das ist",
+            "die",
+            "graue",
+            "Person",
+            "in der mitte"
+        ],
+        [
+            "das ist",
+            "die",
+            "graue",
+            "Person",
+            "im zentrum"
+        ]
+    ]
+}
