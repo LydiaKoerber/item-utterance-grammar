@@ -2,48 +2,6 @@
     "0": [
         [
             "bitte zeig mir",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "runden",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "runden",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "runden",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "bitte zeig mir",
             "das",
             "gelbe",
             "Objekt",
@@ -127,6 +85,132 @@
             "auf der linken seite"
         ],
         [
+            "bitte zeig mir",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "runden",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "runden",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "runden",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "gelbe",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "gelbe",
+            "Objekt",
+            "links"
+        ],
+        [
+            "es gibt",
+            "das",
+            "gelbe",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "gelbe",
+            "Ding",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "gelbe",
+            "Ding",
+            "links"
+        ],
+        [
+            "es gibt",
+            "das",
+            "gelbe",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "runde",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "runde",
+            "Objekt",
+            "links"
+        ],
+        [
+            "es gibt",
+            "das",
+            "runde",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "runde",
+            "Ding",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "runde",
+            "Ding",
+            "links"
+        ],
+        [
+            "es gibt",
+            "das",
+            "runde",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
             "es gibt",
             "den",
             "gelben",
@@ -169,84 +253,84 @@
             "auf der linken seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "runde",
             "Ding",
@@ -295,84 +379,84 @@
             "auf der linken seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "runde",
             "Ding",
@@ -415,132 +499,6 @@
         ],
         [
             "wähl mal",
-            "den",
-            "runden",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "gelbe",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "gelbe",
-            "Objekt",
-            "links"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "gelbe",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "gelbe",
-            "Ding",
-            "oben"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "gelbe",
-            "Ding",
-            "links"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "gelbe",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "runde",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "runde",
-            "Objekt",
-            "links"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "runde",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "runde",
-            "Ding",
-            "oben"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "runde",
-            "Ding",
-            "links"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "runde",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "runden",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "runden",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "ich nehme",
             "den",
             "runden",
             "Gegenstand",
@@ -631,6 +589,132 @@
             "auf der linken seite"
         ],
         [
+            "ich nehme",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "runden",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "runden",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "runden",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "gelbe",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "gelbe",
+            "Objekt",
+            "links"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "gelbe",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "gelbe",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "gelbe",
+            "Ding",
+            "links"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "gelbe",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "runde",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "runde",
+            "Objekt",
+            "links"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "runde",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "runde",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "runde",
+            "Ding",
+            "links"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "runde",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
             "bitte wähle",
             "den",
             "gelben",
@@ -673,84 +757,84 @@
             "auf der linken seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "runde",
             "Ding",
@@ -799,84 +883,84 @@
             "auf der linken seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "runde",
             "Ding",
@@ -919,132 +1003,6 @@
         ],
         [
             "finde",
-            "den",
-            "runden",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "finde",
-            "das",
-            "gelbe",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "finde",
-            "das",
-            "gelbe",
-            "Objekt",
-            "links"
-        ],
-        [
-            "finde",
-            "das",
-            "gelbe",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "finde",
-            "das",
-            "gelbe",
-            "Ding",
-            "oben"
-        ],
-        [
-            "finde",
-            "das",
-            "gelbe",
-            "Ding",
-            "links"
-        ],
-        [
-            "finde",
-            "das",
-            "gelbe",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "finde",
-            "das",
-            "runde",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "finde",
-            "das",
-            "runde",
-            "Objekt",
-            "links"
-        ],
-        [
-            "finde",
-            "das",
-            "runde",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "finde",
-            "das",
-            "runde",
-            "Ding",
-            "oben"
-        ],
-        [
-            "finde",
-            "das",
-            "runde",
-            "Ding",
-            "links"
-        ],
-        [
-            "finde",
-            "das",
-            "runde",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "runden",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "runden",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "wähle mal",
             "den",
             "runden",
             "Gegenstand",
@@ -1135,6 +1093,132 @@
             "auf der linken seite"
         ],
         [
+            "wähle mal",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "runden",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "runden",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "runden",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "gelbe",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "gelbe",
+            "Objekt",
+            "links"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "gelbe",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "gelbe",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "gelbe",
+            "Ding",
+            "links"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "gelbe",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "runde",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "runde",
+            "Objekt",
+            "links"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "runde",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "runde",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "runde",
+            "Ding",
+            "links"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "runde",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
             "ich sehe",
             "den",
             "gelben",
@@ -1177,84 +1261,84 @@
             "auf der linken seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "runde",
             "Ding",
@@ -1303,84 +1387,84 @@
             "auf der linken seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "runde",
             "Ding",
@@ -1423,132 +1507,6 @@
         ],
         [
             "ich denke an",
-            "den",
-            "runden",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "gelbe",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "gelbe",
-            "Objekt",
-            "links"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "gelbe",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "gelbe",
-            "Ding",
-            "oben"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "gelbe",
-            "Ding",
-            "links"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "gelbe",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "runde",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "runde",
-            "Objekt",
-            "links"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "runde",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "runde",
-            "Ding",
-            "oben"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "runde",
-            "Ding",
-            "links"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "runde",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "runden",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "runden",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "ich wähle",
             "den",
             "runden",
             "Gegenstand",
@@ -1639,6 +1597,132 @@
             "auf der linken seite"
         ],
         [
+            "ich wähle",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "runden",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "runden",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "runden",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "gelbe",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "gelbe",
+            "Objekt",
+            "links"
+        ],
+        [
+            "wähle",
+            "das",
+            "gelbe",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "gelbe",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "gelbe",
+            "Ding",
+            "links"
+        ],
+        [
+            "wähle",
+            "das",
+            "gelbe",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "runde",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "runde",
+            "Objekt",
+            "links"
+        ],
+        [
+            "wähle",
+            "das",
+            "runde",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "runde",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "runde",
+            "Ding",
+            "links"
+        ],
+        [
+            "wähle",
+            "das",
+            "runde",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
             "wähle",
             "den",
             "gelben",
@@ -1681,84 +1765,84 @@
             "auf der linken seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "runde",
             "Ding",
@@ -1807,84 +1891,84 @@
             "auf der linken seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "runde",
             "Ding",
@@ -1927,132 +2011,6 @@
         ],
         [
             "zeig",
-            "den",
-            "runden",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "gelbe",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "zeig",
-            "das",
-            "gelbe",
-            "Objekt",
-            "links"
-        ],
-        [
-            "zeig",
-            "das",
-            "gelbe",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "gelbe",
-            "Ding",
-            "oben"
-        ],
-        [
-            "zeig",
-            "das",
-            "gelbe",
-            "Ding",
-            "links"
-        ],
-        [
-            "zeig",
-            "das",
-            "gelbe",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "runde",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "zeig",
-            "das",
-            "runde",
-            "Objekt",
-            "links"
-        ],
-        [
-            "zeig",
-            "das",
-            "runde",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "runde",
-            "Ding",
-            "oben"
-        ],
-        [
-            "zeig",
-            "das",
-            "runde",
-            "Ding",
-            "links"
-        ],
-        [
-            "zeig",
-            "das",
-            "runde",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "runden",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "runden",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "ich beschreibe",
             "den",
             "runden",
             "Gegenstand",
@@ -2143,6 +2101,132 @@
             "auf der linken seite"
         ],
         [
+            "ich beschreibe",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "runden",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "runden",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "runden",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "gelbe",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "gelbe",
+            "Objekt",
+            "links"
+        ],
+        [
+            "du siehst",
+            "das",
+            "gelbe",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "gelbe",
+            "Ding",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "gelbe",
+            "Ding",
+            "links"
+        ],
+        [
+            "du siehst",
+            "das",
+            "gelbe",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "runde",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "runde",
+            "Objekt",
+            "links"
+        ],
+        [
+            "du siehst",
+            "das",
+            "runde",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "runde",
+            "Ding",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "runde",
+            "Ding",
+            "links"
+        ],
+        [
+            "du siehst",
+            "das",
+            "runde",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
             "du siehst",
             "den",
             "gelben",
@@ -2185,84 +2269,84 @@
             "auf der linken seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "runde",
             "Ding",
@@ -2311,84 +2395,84 @@
             "auf der linken seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "runde",
             "Ding",
@@ -2431,132 +2515,6 @@
         ],
         [
             "zeig mir",
-            "den",
-            "runden",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "gelbe",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "gelbe",
-            "Objekt",
-            "links"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "gelbe",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "gelbe",
-            "Ding",
-            "oben"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "gelbe",
-            "Ding",
-            "links"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "gelbe",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "runde",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "runde",
-            "Objekt",
-            "links"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "runde",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "runde",
-            "Ding",
-            "oben"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "runde",
-            "Ding",
-            "links"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "runde",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "ich meine",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich meine",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "ich meine",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "ich meine",
-            "den",
-            "runden",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich meine",
-            "den",
-            "runden",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "ich meine",
             "den",
             "runden",
             "Gegenstand",
@@ -2647,42 +2605,42 @@
             "auf der linken seite"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "gelben",
             "Gegenstand",
             "oben"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "gelben",
             "Gegenstand",
             "links"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "gelben",
             "Gegenstand",
             "auf der linken seite"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "runden",
             "Gegenstand",
             "oben"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "runden",
             "Gegenstand",
             "links"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "runden",
             "Gegenstand",
@@ -2773,42 +2731,42 @@
             "auf der linken seite"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "gelben",
             "Gegenstand",
             "oben"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "gelben",
             "Gegenstand",
             "links"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "gelben",
             "Gegenstand",
             "auf der linken seite"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "runden",
             "Gegenstand",
             "oben"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "runden",
             "Gegenstand",
             "links"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "runden",
             "Gegenstand",
@@ -2899,253 +2857,43 @@
             "auf der linken seite"
         ],
         [
-            "weiter mit",
-            "dem",
-            "gelben",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "gelben",
-            "Objekt",
-            "links"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "gelben",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "gelben",
-            "Ding",
-            "oben"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "gelben",
-            "Ding",
-            "links"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "gelben",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "runden",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "runden",
-            "Objekt",
-            "links"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "runden",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "runden",
-            "Ding",
-            "oben"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "runden",
-            "Ding",
-            "links"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "runden",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "gelben",
             "Gegenstand",
             "oben"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "gelben",
             "Gegenstand",
             "links"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "gelben",
             "Gegenstand",
             "auf der linken seite"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "runden",
             "Gegenstand",
             "oben"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "runden",
             "Gegenstand",
             "links"
         ],
         [
-            "weiter mit",
-            "dem",
-            "runden",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "gelben",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "gelben",
-            "Objekt",
-            "links"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "gelben",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "gelben",
-            "Ding",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "gelben",
-            "Ding",
-            "links"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "gelben",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "runden",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "runden",
-            "Objekt",
-            "links"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "runden",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "runden",
-            "Ding",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "runden",
-            "Ding",
-            "links"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "runden",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "gelben",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "gelben",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "gelben",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "runden",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "runden",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "runden",
             "Gegenstand",
             "auf der linken seite"
@@ -4786,54 +4534,264 @@
             "das",
             "runde",
             "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "gelben",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "gelben",
+            "Objekt",
+            "links"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "gelben",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "gelben",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "gelben",
+            "Ding",
+            "links"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "gelben",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "runden",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "runden",
+            "Objekt",
+            "links"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "runden",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "runden",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "runden",
+            "Ding",
+            "links"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "runden",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "gelben",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "gelben",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "gelben",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "runden",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "runden",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "runden",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "gelben",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "gelben",
+            "Objekt",
+            "links"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "gelben",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "gelben",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "gelben",
+            "Ding",
+            "links"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "gelben",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "runden",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "runden",
+            "Objekt",
+            "links"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "runden",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "runden",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "runden",
+            "Ding",
+            "links"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "runden",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "gelben",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "gelben",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "gelben",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "runden",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "runden",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "runden",
+            "Gegenstand",
             "auf der linken seite"
         ]
     ],
     "1": [
         [
             "bitte zeig mir",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "runden",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "runden",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "runden",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "bitte zeig mir",
             "das",
             "gelbe",
             "Objekt",
@@ -4917,6 +4875,132 @@
             "auf der linken seite"
         ],
         [
+            "bitte zeig mir",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "runden",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "runden",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "runden",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "gelbe",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "gelbe",
+            "Objekt",
+            "links"
+        ],
+        [
+            "es gibt",
+            "das",
+            "gelbe",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "gelbe",
+            "Ding",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "gelbe",
+            "Ding",
+            "links"
+        ],
+        [
+            "es gibt",
+            "das",
+            "gelbe",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "runde",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "runde",
+            "Objekt",
+            "links"
+        ],
+        [
+            "es gibt",
+            "das",
+            "runde",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "runde",
+            "Ding",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "runde",
+            "Ding",
+            "links"
+        ],
+        [
+            "es gibt",
+            "das",
+            "runde",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
             "es gibt",
             "den",
             "gelben",
@@ -4959,84 +5043,84 @@
             "auf der linken seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "runde",
             "Ding",
@@ -5085,84 +5169,84 @@
             "auf der linken seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "runde",
             "Ding",
@@ -5205,132 +5289,6 @@
         ],
         [
             "wähl mal",
-            "den",
-            "runden",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "gelbe",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "gelbe",
-            "Objekt",
-            "links"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "gelbe",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "gelbe",
-            "Ding",
-            "oben"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "gelbe",
-            "Ding",
-            "links"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "gelbe",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "runde",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "runde",
-            "Objekt",
-            "links"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "runde",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "runde",
-            "Ding",
-            "oben"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "runde",
-            "Ding",
-            "links"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "runde",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "runden",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "runden",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "ich nehme",
             "den",
             "runden",
             "Gegenstand",
@@ -5421,6 +5379,132 @@
             "auf der linken seite"
         ],
         [
+            "ich nehme",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "runden",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "runden",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "runden",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "gelbe",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "gelbe",
+            "Objekt",
+            "links"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "gelbe",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "gelbe",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "gelbe",
+            "Ding",
+            "links"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "gelbe",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "runde",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "runde",
+            "Objekt",
+            "links"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "runde",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "runde",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "runde",
+            "Ding",
+            "links"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "runde",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
             "bitte wähle",
             "den",
             "gelben",
@@ -5463,84 +5547,84 @@
             "auf der linken seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "runde",
             "Ding",
@@ -5589,84 +5673,84 @@
             "auf der linken seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "runde",
             "Ding",
@@ -5709,132 +5793,6 @@
         ],
         [
             "finde",
-            "den",
-            "runden",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "finde",
-            "das",
-            "gelbe",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "finde",
-            "das",
-            "gelbe",
-            "Objekt",
-            "links"
-        ],
-        [
-            "finde",
-            "das",
-            "gelbe",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "finde",
-            "das",
-            "gelbe",
-            "Ding",
-            "oben"
-        ],
-        [
-            "finde",
-            "das",
-            "gelbe",
-            "Ding",
-            "links"
-        ],
-        [
-            "finde",
-            "das",
-            "gelbe",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "finde",
-            "das",
-            "runde",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "finde",
-            "das",
-            "runde",
-            "Objekt",
-            "links"
-        ],
-        [
-            "finde",
-            "das",
-            "runde",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "finde",
-            "das",
-            "runde",
-            "Ding",
-            "oben"
-        ],
-        [
-            "finde",
-            "das",
-            "runde",
-            "Ding",
-            "links"
-        ],
-        [
-            "finde",
-            "das",
-            "runde",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "runden",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "runden",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "wähle mal",
             "den",
             "runden",
             "Gegenstand",
@@ -5925,6 +5883,132 @@
             "auf der linken seite"
         ],
         [
+            "wähle mal",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "runden",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "runden",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "runden",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "gelbe",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "gelbe",
+            "Objekt",
+            "links"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "gelbe",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "gelbe",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "gelbe",
+            "Ding",
+            "links"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "gelbe",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "runde",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "runde",
+            "Objekt",
+            "links"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "runde",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "runde",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "runde",
+            "Ding",
+            "links"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "runde",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
             "ich sehe",
             "den",
             "gelben",
@@ -5967,84 +6051,84 @@
             "auf der linken seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "runde",
             "Ding",
@@ -6093,84 +6177,84 @@
             "auf der linken seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "runde",
             "Ding",
@@ -6213,132 +6297,6 @@
         ],
         [
             "ich denke an",
-            "den",
-            "runden",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "gelbe",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "gelbe",
-            "Objekt",
-            "links"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "gelbe",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "gelbe",
-            "Ding",
-            "oben"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "gelbe",
-            "Ding",
-            "links"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "gelbe",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "runde",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "runde",
-            "Objekt",
-            "links"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "runde",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "runde",
-            "Ding",
-            "oben"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "runde",
-            "Ding",
-            "links"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "runde",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "runden",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "runden",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "ich wähle",
             "den",
             "runden",
             "Gegenstand",
@@ -6429,6 +6387,132 @@
             "auf der linken seite"
         ],
         [
+            "ich wähle",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "runden",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "runden",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "runden",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "gelbe",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "gelbe",
+            "Objekt",
+            "links"
+        ],
+        [
+            "wähle",
+            "das",
+            "gelbe",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "gelbe",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "gelbe",
+            "Ding",
+            "links"
+        ],
+        [
+            "wähle",
+            "das",
+            "gelbe",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "runde",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "runde",
+            "Objekt",
+            "links"
+        ],
+        [
+            "wähle",
+            "das",
+            "runde",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "runde",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "runde",
+            "Ding",
+            "links"
+        ],
+        [
+            "wähle",
+            "das",
+            "runde",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
             "wähle",
             "den",
             "gelben",
@@ -6471,84 +6555,84 @@
             "auf der linken seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "runde",
             "Ding",
@@ -6597,84 +6681,84 @@
             "auf der linken seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "runde",
             "Ding",
@@ -6717,132 +6801,6 @@
         ],
         [
             "zeig",
-            "den",
-            "runden",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "gelbe",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "zeig",
-            "das",
-            "gelbe",
-            "Objekt",
-            "links"
-        ],
-        [
-            "zeig",
-            "das",
-            "gelbe",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "gelbe",
-            "Ding",
-            "oben"
-        ],
-        [
-            "zeig",
-            "das",
-            "gelbe",
-            "Ding",
-            "links"
-        ],
-        [
-            "zeig",
-            "das",
-            "gelbe",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "runde",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "zeig",
-            "das",
-            "runde",
-            "Objekt",
-            "links"
-        ],
-        [
-            "zeig",
-            "das",
-            "runde",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "runde",
-            "Ding",
-            "oben"
-        ],
-        [
-            "zeig",
-            "das",
-            "runde",
-            "Ding",
-            "links"
-        ],
-        [
-            "zeig",
-            "das",
-            "runde",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "runden",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "runden",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "ich beschreibe",
             "den",
             "runden",
             "Gegenstand",
@@ -6933,6 +6891,132 @@
             "auf der linken seite"
         ],
         [
+            "ich beschreibe",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "runden",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "runden",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "runden",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "gelbe",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "gelbe",
+            "Objekt",
+            "links"
+        ],
+        [
+            "du siehst",
+            "das",
+            "gelbe",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "gelbe",
+            "Ding",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "gelbe",
+            "Ding",
+            "links"
+        ],
+        [
+            "du siehst",
+            "das",
+            "gelbe",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "runde",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "runde",
+            "Objekt",
+            "links"
+        ],
+        [
+            "du siehst",
+            "das",
+            "runde",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "runde",
+            "Ding",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "runde",
+            "Ding",
+            "links"
+        ],
+        [
+            "du siehst",
+            "das",
+            "runde",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
             "du siehst",
             "den",
             "gelben",
@@ -6975,84 +7059,84 @@
             "auf der linken seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "runde",
             "Ding",
@@ -7101,84 +7185,84 @@
             "auf der linken seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "runde",
             "Ding",
@@ -7221,132 +7305,6 @@
         ],
         [
             "zeig mir",
-            "den",
-            "runden",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "gelbe",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "gelbe",
-            "Objekt",
-            "links"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "gelbe",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "gelbe",
-            "Ding",
-            "oben"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "gelbe",
-            "Ding",
-            "links"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "gelbe",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "runde",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "runde",
-            "Objekt",
-            "links"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "runde",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "runde",
-            "Ding",
-            "oben"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "runde",
-            "Ding",
-            "links"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "runde",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "ich meine",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich meine",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "ich meine",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "ich meine",
-            "den",
-            "runden",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich meine",
-            "den",
-            "runden",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "ich meine",
             "den",
             "runden",
             "Gegenstand",
@@ -7437,42 +7395,42 @@
             "auf der linken seite"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "gelben",
             "Gegenstand",
             "oben"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "gelben",
             "Gegenstand",
             "links"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "gelben",
             "Gegenstand",
             "auf der linken seite"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "runden",
             "Gegenstand",
             "oben"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "runden",
             "Gegenstand",
             "links"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "runden",
             "Gegenstand",
@@ -7563,42 +7521,42 @@
             "auf der linken seite"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "gelben",
             "Gegenstand",
             "oben"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "gelben",
             "Gegenstand",
             "links"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "gelben",
             "Gegenstand",
             "auf der linken seite"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "runden",
             "Gegenstand",
             "oben"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "runden",
             "Gegenstand",
             "links"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "runden",
             "Gegenstand",
@@ -7689,253 +7647,43 @@
             "auf der linken seite"
         ],
         [
-            "weiter mit",
-            "dem",
-            "gelben",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "gelben",
-            "Objekt",
-            "links"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "gelben",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "gelben",
-            "Ding",
-            "oben"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "gelben",
-            "Ding",
-            "links"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "gelben",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "runden",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "runden",
-            "Objekt",
-            "links"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "runden",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "runden",
-            "Ding",
-            "oben"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "runden",
-            "Ding",
-            "links"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "runden",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "gelben",
             "Gegenstand",
             "oben"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "gelben",
             "Gegenstand",
             "links"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "gelben",
             "Gegenstand",
             "auf der linken seite"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "runden",
             "Gegenstand",
             "oben"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "runden",
             "Gegenstand",
             "links"
         ],
         [
-            "weiter mit",
-            "dem",
-            "runden",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "gelben",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "gelben",
-            "Objekt",
-            "links"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "gelben",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "gelben",
-            "Ding",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "gelben",
-            "Ding",
-            "links"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "gelben",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "runden",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "runden",
-            "Objekt",
-            "links"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "runden",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "runden",
-            "Ding",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "runden",
-            "Ding",
-            "links"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "runden",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "gelben",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "gelben",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "gelben",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "runden",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "runden",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "runden",
             "Gegenstand",
             "auf der linken seite"
@@ -9576,54 +9324,264 @@
             "das",
             "runde",
             "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "gelben",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "gelben",
+            "Objekt",
+            "links"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "gelben",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "gelben",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "gelben",
+            "Ding",
+            "links"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "gelben",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "runden",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "runden",
+            "Objekt",
+            "links"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "runden",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "runden",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "runden",
+            "Ding",
+            "links"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "runden",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "gelben",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "gelben",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "gelben",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "runden",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "runden",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "runden",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "gelben",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "gelben",
+            "Objekt",
+            "links"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "gelben",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "gelben",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "gelben",
+            "Ding",
+            "links"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "gelben",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "runden",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "runden",
+            "Objekt",
+            "links"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "runden",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "runden",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "runden",
+            "Ding",
+            "links"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "runden",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "gelben",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "gelben",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "gelben",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "runden",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "runden",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "runden",
+            "Gegenstand",
             "auf der linken seite"
         ]
     ],
     "2": [
         [
             "bitte zeig mir",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "runden",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "runden",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "runden",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "bitte zeig mir",
             "das",
             "gelbe",
             "Objekt",
@@ -9707,6 +9665,132 @@
             "auf der linken seite"
         ],
         [
+            "bitte zeig mir",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "runden",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "runden",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "runden",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "gelbe",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "gelbe",
+            "Objekt",
+            "links"
+        ],
+        [
+            "es gibt",
+            "das",
+            "gelbe",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "gelbe",
+            "Ding",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "gelbe",
+            "Ding",
+            "links"
+        ],
+        [
+            "es gibt",
+            "das",
+            "gelbe",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "runde",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "runde",
+            "Objekt",
+            "links"
+        ],
+        [
+            "es gibt",
+            "das",
+            "runde",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "runde",
+            "Ding",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "runde",
+            "Ding",
+            "links"
+        ],
+        [
+            "es gibt",
+            "das",
+            "runde",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
             "es gibt",
             "den",
             "gelben",
@@ -9749,84 +9833,84 @@
             "auf der linken seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "runde",
             "Ding",
@@ -9875,84 +9959,84 @@
             "auf der linken seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "runde",
             "Ding",
@@ -9995,132 +10079,6 @@
         ],
         [
             "wähl mal",
-            "den",
-            "runden",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "gelbe",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "gelbe",
-            "Objekt",
-            "links"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "gelbe",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "gelbe",
-            "Ding",
-            "oben"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "gelbe",
-            "Ding",
-            "links"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "gelbe",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "runde",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "runde",
-            "Objekt",
-            "links"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "runde",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "runde",
-            "Ding",
-            "oben"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "runde",
-            "Ding",
-            "links"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "runde",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "runden",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "runden",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "ich nehme",
             "den",
             "runden",
             "Gegenstand",
@@ -10211,6 +10169,132 @@
             "auf der linken seite"
         ],
         [
+            "ich nehme",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "runden",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "runden",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "runden",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "gelbe",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "gelbe",
+            "Objekt",
+            "links"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "gelbe",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "gelbe",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "gelbe",
+            "Ding",
+            "links"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "gelbe",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "runde",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "runde",
+            "Objekt",
+            "links"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "runde",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "runde",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "runde",
+            "Ding",
+            "links"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "runde",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
             "bitte wähle",
             "den",
             "gelben",
@@ -10253,84 +10337,84 @@
             "auf der linken seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "runde",
             "Ding",
@@ -10379,84 +10463,84 @@
             "auf der linken seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "runde",
             "Ding",
@@ -10499,132 +10583,6 @@
         ],
         [
             "finde",
-            "den",
-            "runden",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "finde",
-            "das",
-            "gelbe",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "finde",
-            "das",
-            "gelbe",
-            "Objekt",
-            "links"
-        ],
-        [
-            "finde",
-            "das",
-            "gelbe",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "finde",
-            "das",
-            "gelbe",
-            "Ding",
-            "oben"
-        ],
-        [
-            "finde",
-            "das",
-            "gelbe",
-            "Ding",
-            "links"
-        ],
-        [
-            "finde",
-            "das",
-            "gelbe",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "finde",
-            "das",
-            "runde",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "finde",
-            "das",
-            "runde",
-            "Objekt",
-            "links"
-        ],
-        [
-            "finde",
-            "das",
-            "runde",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "finde",
-            "das",
-            "runde",
-            "Ding",
-            "oben"
-        ],
-        [
-            "finde",
-            "das",
-            "runde",
-            "Ding",
-            "links"
-        ],
-        [
-            "finde",
-            "das",
-            "runde",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "runden",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "runden",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "wähle mal",
             "den",
             "runden",
             "Gegenstand",
@@ -10715,6 +10673,132 @@
             "auf der linken seite"
         ],
         [
+            "wähle mal",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "runden",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "runden",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "runden",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "gelbe",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "gelbe",
+            "Objekt",
+            "links"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "gelbe",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "gelbe",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "gelbe",
+            "Ding",
+            "links"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "gelbe",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "runde",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "runde",
+            "Objekt",
+            "links"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "runde",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "runde",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "runde",
+            "Ding",
+            "links"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "runde",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
             "ich sehe",
             "den",
             "gelben",
@@ -10757,84 +10841,84 @@
             "auf der linken seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "runde",
             "Ding",
@@ -10883,84 +10967,84 @@
             "auf der linken seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "runde",
             "Ding",
@@ -11003,132 +11087,6 @@
         ],
         [
             "ich denke an",
-            "den",
-            "runden",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "gelbe",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "gelbe",
-            "Objekt",
-            "links"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "gelbe",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "gelbe",
-            "Ding",
-            "oben"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "gelbe",
-            "Ding",
-            "links"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "gelbe",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "runde",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "runde",
-            "Objekt",
-            "links"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "runde",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "runde",
-            "Ding",
-            "oben"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "runde",
-            "Ding",
-            "links"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "runde",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "runden",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "runden",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "ich wähle",
             "den",
             "runden",
             "Gegenstand",
@@ -11219,6 +11177,132 @@
             "auf der linken seite"
         ],
         [
+            "ich wähle",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "runden",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "runden",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "runden",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "gelbe",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "gelbe",
+            "Objekt",
+            "links"
+        ],
+        [
+            "wähle",
+            "das",
+            "gelbe",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "gelbe",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "gelbe",
+            "Ding",
+            "links"
+        ],
+        [
+            "wähle",
+            "das",
+            "gelbe",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "runde",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "runde",
+            "Objekt",
+            "links"
+        ],
+        [
+            "wähle",
+            "das",
+            "runde",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "runde",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "runde",
+            "Ding",
+            "links"
+        ],
+        [
+            "wähle",
+            "das",
+            "runde",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
             "wähle",
             "den",
             "gelben",
@@ -11261,84 +11345,84 @@
             "auf der linken seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "runde",
             "Ding",
@@ -11387,84 +11471,84 @@
             "auf der linken seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "runde",
             "Ding",
@@ -11507,132 +11591,6 @@
         ],
         [
             "zeig",
-            "den",
-            "runden",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "gelbe",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "zeig",
-            "das",
-            "gelbe",
-            "Objekt",
-            "links"
-        ],
-        [
-            "zeig",
-            "das",
-            "gelbe",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "gelbe",
-            "Ding",
-            "oben"
-        ],
-        [
-            "zeig",
-            "das",
-            "gelbe",
-            "Ding",
-            "links"
-        ],
-        [
-            "zeig",
-            "das",
-            "gelbe",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "runde",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "zeig",
-            "das",
-            "runde",
-            "Objekt",
-            "links"
-        ],
-        [
-            "zeig",
-            "das",
-            "runde",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "runde",
-            "Ding",
-            "oben"
-        ],
-        [
-            "zeig",
-            "das",
-            "runde",
-            "Ding",
-            "links"
-        ],
-        [
-            "zeig",
-            "das",
-            "runde",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "runden",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "runden",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "ich beschreibe",
             "den",
             "runden",
             "Gegenstand",
@@ -11723,6 +11681,132 @@
             "auf der linken seite"
         ],
         [
+            "ich beschreibe",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "gelben",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "runden",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "runden",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "runden",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "gelbe",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "gelbe",
+            "Objekt",
+            "links"
+        ],
+        [
+            "du siehst",
+            "das",
+            "gelbe",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "gelbe",
+            "Ding",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "gelbe",
+            "Ding",
+            "links"
+        ],
+        [
+            "du siehst",
+            "das",
+            "gelbe",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "runde",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "runde",
+            "Objekt",
+            "links"
+        ],
+        [
+            "du siehst",
+            "das",
+            "runde",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "runde",
+            "Ding",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "runde",
+            "Ding",
+            "links"
+        ],
+        [
+            "du siehst",
+            "das",
+            "runde",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
             "du siehst",
             "den",
             "gelben",
@@ -11765,84 +11849,84 @@
             "auf der linken seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "runde",
             "Ding",
@@ -11891,84 +11975,84 @@
             "auf der linken seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "gelbe",
             "Objekt",
             "oben"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "gelbe",
             "Objekt",
             "links"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "gelbe",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "gelbe",
             "Ding",
             "oben"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "gelbe",
             "Ding",
             "links"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "gelbe",
             "Ding",
             "auf der linken seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "runde",
             "Objekt",
             "oben"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "runde",
             "Objekt",
             "links"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "runde",
             "Objekt",
             "auf der linken seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "runde",
             "Ding",
             "oben"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "runde",
             "Ding",
             "links"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "runde",
             "Ding",
@@ -12011,132 +12095,6 @@
         ],
         [
             "zeig mir",
-            "den",
-            "runden",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "gelbe",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "gelbe",
-            "Objekt",
-            "links"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "gelbe",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "gelbe",
-            "Ding",
-            "oben"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "gelbe",
-            "Ding",
-            "links"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "gelbe",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "runde",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "runde",
-            "Objekt",
-            "links"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "runde",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "runde",
-            "Ding",
-            "oben"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "runde",
-            "Ding",
-            "links"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "runde",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "ich meine",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich meine",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "ich meine",
-            "den",
-            "gelben",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "ich meine",
-            "den",
-            "runden",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich meine",
-            "den",
-            "runden",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "ich meine",
             "den",
             "runden",
             "Gegenstand",
@@ -12227,42 +12185,42 @@
             "auf der linken seite"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "gelben",
             "Gegenstand",
             "oben"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "gelben",
             "Gegenstand",
             "links"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "gelben",
             "Gegenstand",
             "auf der linken seite"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "runden",
             "Gegenstand",
             "oben"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "runden",
             "Gegenstand",
             "links"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "runden",
             "Gegenstand",
@@ -12353,42 +12311,42 @@
             "auf der linken seite"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "gelben",
             "Gegenstand",
             "oben"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "gelben",
             "Gegenstand",
             "links"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "gelben",
             "Gegenstand",
             "auf der linken seite"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "runden",
             "Gegenstand",
             "oben"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "runden",
             "Gegenstand",
             "links"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "runden",
             "Gegenstand",
@@ -12479,253 +12437,43 @@
             "auf der linken seite"
         ],
         [
-            "weiter mit",
-            "dem",
-            "gelben",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "gelben",
-            "Objekt",
-            "links"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "gelben",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "gelben",
-            "Ding",
-            "oben"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "gelben",
-            "Ding",
-            "links"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "gelben",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "runden",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "runden",
-            "Objekt",
-            "links"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "runden",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "runden",
-            "Ding",
-            "oben"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "runden",
-            "Ding",
-            "links"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "runden",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "gelben",
             "Gegenstand",
             "oben"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "gelben",
             "Gegenstand",
             "links"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "gelben",
             "Gegenstand",
             "auf der linken seite"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "runden",
             "Gegenstand",
             "oben"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "runden",
             "Gegenstand",
             "links"
         ],
         [
-            "weiter mit",
-            "dem",
-            "runden",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "gelben",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "gelben",
-            "Objekt",
-            "links"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "gelben",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "gelben",
-            "Ding",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "gelben",
-            "Ding",
-            "links"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "gelben",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "runden",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "runden",
-            "Objekt",
-            "links"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "runden",
-            "Objekt",
-            "auf der linken seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "runden",
-            "Ding",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "runden",
-            "Ding",
-            "links"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "runden",
-            "Ding",
-            "auf der linken seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "gelben",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "gelben",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "gelben",
-            "Gegenstand",
-            "auf der linken seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "runden",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "runden",
-            "Gegenstand",
-            "links"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "runden",
             "Gegenstand",
             "auf der linken seite"
@@ -14366,6 +14114,258 @@
             "das",
             "runde",
             "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "gelben",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "gelben",
+            "Objekt",
+            "links"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "gelben",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "gelben",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "gelben",
+            "Ding",
+            "links"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "gelben",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "runden",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "runden",
+            "Objekt",
+            "links"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "runden",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "runden",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "runden",
+            "Ding",
+            "links"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "runden",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "gelben",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "gelben",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "gelben",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "runden",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "runden",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "runden",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "gelben",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "gelben",
+            "Objekt",
+            "links"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "gelben",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "gelben",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "gelben",
+            "Ding",
+            "links"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "gelben",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "runden",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "runden",
+            "Objekt",
+            "links"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "runden",
+            "Objekt",
+            "auf der linken seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "runden",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "runden",
+            "Ding",
+            "links"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "runden",
+            "Ding",
+            "auf der linken seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "gelben",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "gelben",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "gelben",
+            "Gegenstand",
+            "auf der linken seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "runden",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "runden",
+            "Gegenstand",
+            "links"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "runden",
+            "Gegenstand",
             "auf der linken seite"
         ]
     ]

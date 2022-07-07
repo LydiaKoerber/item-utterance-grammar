@@ -2,48 +2,6 @@
     "0": [
         [
             "bitte zeig mir",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "bitte zeig mir",
             "das",
             "aufgeschlagene",
             "Objekt",
@@ -127,6 +85,132 @@
             "auf der rechten seite"
         ],
         [
+            "bitte zeig mir",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "offene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "offene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "offene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "offene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "geöffnete",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "geöffnete",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
             "es gibt",
             "den",
             "aufgeschlagenen",
@@ -169,84 +253,84 @@
             "auf der rechten seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "geöffnete",
             "Ding",
@@ -295,84 +379,84 @@
             "auf der rechten seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "geöffnete",
             "Ding",
@@ -415,132 +499,6 @@
         ],
         [
             "wähl mal",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "offene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "offene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "offene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "offene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "geöffnete",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "geöffnete",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich nehme",
             "den",
             "geöffneten",
             "Gegenstand",
@@ -631,6 +589,132 @@
             "auf der rechten seite"
         ],
         [
+            "ich nehme",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "offene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "offene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "offene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "offene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "geöffnete",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "geöffnete",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
             "bitte wähle",
             "den",
             "aufgeschlagenen",
@@ -673,84 +757,84 @@
             "auf der rechten seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "geöffnete",
             "Ding",
@@ -799,84 +883,84 @@
             "auf der rechten seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "geöffnete",
             "Ding",
@@ -919,132 +1003,6 @@
         ],
         [
             "finde",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "finde",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "finde",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "finde",
-            "das",
-            "offene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "offene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "finde",
-            "das",
-            "offene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "offene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "finde",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "finde",
-            "das",
-            "geöffnete",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "geöffnete",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "wähle mal",
             "den",
             "geöffneten",
             "Gegenstand",
@@ -1135,6 +1093,132 @@
             "auf der rechten seite"
         ],
         [
+            "wähle mal",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "offene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "offene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "offene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "offene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "geöffnete",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "geöffnete",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
             "ich sehe",
             "den",
             "aufgeschlagenen",
@@ -1177,84 +1261,84 @@
             "auf der rechten seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "geöffnete",
             "Ding",
@@ -1303,84 +1387,84 @@
             "auf der rechten seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "geöffnete",
             "Ding",
@@ -1423,132 +1507,6 @@
         ],
         [
             "ich denke an",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "offene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "offene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "offene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "offene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "geöffnete",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "geöffnete",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich wähle",
             "den",
             "geöffneten",
             "Gegenstand",
@@ -1639,6 +1597,132 @@
             "auf der rechten seite"
         ],
         [
+            "ich wähle",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "offene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "offene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "offene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "offene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "geöffnete",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "geöffnete",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
             "wähle",
             "den",
             "aufgeschlagenen",
@@ -1681,84 +1765,84 @@
             "auf der rechten seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "geöffnete",
             "Ding",
@@ -1807,84 +1891,84 @@
             "auf der rechten seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "geöffnete",
             "Ding",
@@ -1927,132 +2011,6 @@
         ],
         [
             "zeig",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "offene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "offene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "offene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "offene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "geöffnete",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "geöffnete",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich beschreibe",
             "den",
             "geöffneten",
             "Gegenstand",
@@ -2143,6 +2101,132 @@
             "auf der rechten seite"
         ],
         [
+            "ich beschreibe",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "offene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "offene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "offene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "offene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "geöffnete",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "geöffnete",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
             "du siehst",
             "den",
             "aufgeschlagenen",
@@ -2185,84 +2269,84 @@
             "auf der rechten seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "geöffnete",
             "Ding",
@@ -2311,84 +2395,84 @@
             "auf der rechten seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "geöffnete",
             "Ding",
@@ -2431,132 +2515,6 @@
         ],
         [
             "zeig mir",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "offene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "offene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "offene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "offene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "geöffnete",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "geöffnete",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "ich meine",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich meine",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "ich meine",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich meine",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "ich meine",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich meine",
             "den",
             "geöffneten",
             "Gegenstand",
@@ -2647,42 +2605,42 @@
             "auf der rechten seite"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "aufgeschlagenen",
             "Gegenstand",
             "rechts"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "aufgeschlagenen",
             "Gegenstand",
             "auf der rechten seite"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "offenen",
             "Gegenstand",
             "rechts"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "offenen",
             "Gegenstand",
             "auf der rechten seite"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "geöffneten",
             "Gegenstand",
             "rechts"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "geöffneten",
             "Gegenstand",
@@ -2773,42 +2731,42 @@
             "auf der rechten seite"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "aufgeschlagenen",
             "Gegenstand",
             "rechts"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "aufgeschlagenen",
             "Gegenstand",
             "auf der rechten seite"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "offenen",
             "Gegenstand",
             "rechts"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "offenen",
             "Gegenstand",
             "auf der rechten seite"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "geöffneten",
             "Gegenstand",
             "rechts"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "geöffneten",
             "Gegenstand",
@@ -2899,253 +2857,43 @@
             "auf der rechten seite"
         ],
         [
-            "weiter mit",
-            "dem",
-            "aufgeschlagenen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "aufgeschlagenen",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "aufgeschlagenen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "aufgeschlagenen",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "offenen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "offenen",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "offenen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "offenen",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "geöffneten",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "geöffneten",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "geöffneten",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "geöffneten",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "aufgeschlagenen",
             "Gegenstand",
             "rechts"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "aufgeschlagenen",
             "Gegenstand",
             "auf der rechten seite"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "offenen",
             "Gegenstand",
             "rechts"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "offenen",
             "Gegenstand",
             "auf der rechten seite"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "geöffneten",
             "Gegenstand",
             "rechts"
         ],
         [
-            "weiter mit",
-            "dem",
-            "geöffneten",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "aufgeschlagenen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "aufgeschlagenen",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "aufgeschlagenen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "aufgeschlagenen",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "offenen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "offenen",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "offenen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "offenen",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "geöffneten",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "geöffneten",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "geöffneten",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "geöffneten",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "offenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "offenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "geöffneten",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "geöffneten",
             "Gegenstand",
             "auf der rechten seite"
@@ -4786,54 +4534,264 @@
             "das",
             "geöffnete",
             "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "aufgeschlagenen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "aufgeschlagenen",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "aufgeschlagenen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "aufgeschlagenen",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "offenen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "offenen",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "offenen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "offenen",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "geöffneten",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "geöffneten",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "geöffneten",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "geöffneten",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "offenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "offenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "geöffneten",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "geöffneten",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "aufgeschlagenen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "aufgeschlagenen",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "aufgeschlagenen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "aufgeschlagenen",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "offenen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "offenen",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "offenen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "offenen",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "geöffneten",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "geöffneten",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "geöffneten",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "geöffneten",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "offenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "offenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "geöffneten",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "geöffneten",
+            "Gegenstand",
             "auf der rechten seite"
         ]
     ],
     "1": [
         [
             "bitte zeig mir",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "bitte zeig mir",
             "das",
             "aufgeschlagene",
             "Objekt",
@@ -4917,6 +4875,132 @@
             "auf der rechten seite"
         ],
         [
+            "bitte zeig mir",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "offene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "offene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "offene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "offene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "geöffnete",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "geöffnete",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
             "es gibt",
             "den",
             "aufgeschlagenen",
@@ -4959,84 +5043,84 @@
             "auf der rechten seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "geöffnete",
             "Ding",
@@ -5085,84 +5169,84 @@
             "auf der rechten seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "geöffnete",
             "Ding",
@@ -5205,132 +5289,6 @@
         ],
         [
             "wähl mal",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "offene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "offene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "offene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "offene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "geöffnete",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "geöffnete",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich nehme",
             "den",
             "geöffneten",
             "Gegenstand",
@@ -5421,6 +5379,132 @@
             "auf der rechten seite"
         ],
         [
+            "ich nehme",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "offene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "offene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "offene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "offene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "geöffnete",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "geöffnete",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
             "bitte wähle",
             "den",
             "aufgeschlagenen",
@@ -5463,84 +5547,84 @@
             "auf der rechten seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "geöffnete",
             "Ding",
@@ -5589,84 +5673,84 @@
             "auf der rechten seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "geöffnete",
             "Ding",
@@ -5709,132 +5793,6 @@
         ],
         [
             "finde",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "finde",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "finde",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "finde",
-            "das",
-            "offene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "offene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "finde",
-            "das",
-            "offene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "offene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "finde",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "finde",
-            "das",
-            "geöffnete",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "geöffnete",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "wähle mal",
             "den",
             "geöffneten",
             "Gegenstand",
@@ -5925,6 +5883,132 @@
             "auf der rechten seite"
         ],
         [
+            "wähle mal",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "offene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "offene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "offene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "offene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "geöffnete",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "geöffnete",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
             "ich sehe",
             "den",
             "aufgeschlagenen",
@@ -5967,84 +6051,84 @@
             "auf der rechten seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "geöffnete",
             "Ding",
@@ -6093,84 +6177,84 @@
             "auf der rechten seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "geöffnete",
             "Ding",
@@ -6213,132 +6297,6 @@
         ],
         [
             "ich denke an",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "offene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "offene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "offene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "offene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "geöffnete",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "geöffnete",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich wähle",
             "den",
             "geöffneten",
             "Gegenstand",
@@ -6429,6 +6387,132 @@
             "auf der rechten seite"
         ],
         [
+            "ich wähle",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "offene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "offene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "offene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "offene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "geöffnete",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "geöffnete",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
             "wähle",
             "den",
             "aufgeschlagenen",
@@ -6471,84 +6555,84 @@
             "auf der rechten seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "geöffnete",
             "Ding",
@@ -6597,84 +6681,84 @@
             "auf der rechten seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "geöffnete",
             "Ding",
@@ -6717,132 +6801,6 @@
         ],
         [
             "zeig",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "offene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "offene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "offene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "offene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "geöffnete",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "geöffnete",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich beschreibe",
             "den",
             "geöffneten",
             "Gegenstand",
@@ -6933,6 +6891,132 @@
             "auf der rechten seite"
         ],
         [
+            "ich beschreibe",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "offene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "offene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "offene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "offene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "geöffnete",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "geöffnete",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
             "du siehst",
             "den",
             "aufgeschlagenen",
@@ -6975,84 +7059,84 @@
             "auf der rechten seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "geöffnete",
             "Ding",
@@ -7101,84 +7185,84 @@
             "auf der rechten seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "geöffnete",
             "Ding",
@@ -7221,132 +7305,6 @@
         ],
         [
             "zeig mir",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "offene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "offene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "offene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "offene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "geöffnete",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "geöffnete",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "ich meine",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich meine",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "ich meine",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich meine",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "ich meine",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich meine",
             "den",
             "geöffneten",
             "Gegenstand",
@@ -7437,42 +7395,42 @@
             "auf der rechten seite"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "aufgeschlagenen",
             "Gegenstand",
             "rechts"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "aufgeschlagenen",
             "Gegenstand",
             "auf der rechten seite"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "offenen",
             "Gegenstand",
             "rechts"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "offenen",
             "Gegenstand",
             "auf der rechten seite"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "geöffneten",
             "Gegenstand",
             "rechts"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "geöffneten",
             "Gegenstand",
@@ -7563,42 +7521,42 @@
             "auf der rechten seite"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "aufgeschlagenen",
             "Gegenstand",
             "rechts"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "aufgeschlagenen",
             "Gegenstand",
             "auf der rechten seite"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "offenen",
             "Gegenstand",
             "rechts"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "offenen",
             "Gegenstand",
             "auf der rechten seite"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "geöffneten",
             "Gegenstand",
             "rechts"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "geöffneten",
             "Gegenstand",
@@ -7689,253 +7647,43 @@
             "auf der rechten seite"
         ],
         [
-            "weiter mit",
-            "dem",
-            "aufgeschlagenen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "aufgeschlagenen",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "aufgeschlagenen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "aufgeschlagenen",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "offenen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "offenen",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "offenen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "offenen",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "geöffneten",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "geöffneten",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "geöffneten",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "geöffneten",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "aufgeschlagenen",
             "Gegenstand",
             "rechts"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "aufgeschlagenen",
             "Gegenstand",
             "auf der rechten seite"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "offenen",
             "Gegenstand",
             "rechts"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "offenen",
             "Gegenstand",
             "auf der rechten seite"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "geöffneten",
             "Gegenstand",
             "rechts"
         ],
         [
-            "weiter mit",
-            "dem",
-            "geöffneten",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "aufgeschlagenen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "aufgeschlagenen",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "aufgeschlagenen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "aufgeschlagenen",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "offenen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "offenen",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "offenen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "offenen",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "geöffneten",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "geöffneten",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "geöffneten",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "geöffneten",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "offenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "offenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "geöffneten",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "geöffneten",
             "Gegenstand",
             "auf der rechten seite"
@@ -9576,54 +9324,264 @@
             "das",
             "geöffnete",
             "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "aufgeschlagenen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "aufgeschlagenen",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "aufgeschlagenen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "aufgeschlagenen",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "offenen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "offenen",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "offenen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "offenen",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "geöffneten",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "geöffneten",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "geöffneten",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "geöffneten",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "offenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "offenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "geöffneten",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "geöffneten",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "aufgeschlagenen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "aufgeschlagenen",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "aufgeschlagenen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "aufgeschlagenen",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "offenen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "offenen",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "offenen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "offenen",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "geöffneten",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "geöffneten",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "geöffneten",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "geöffneten",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "offenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "offenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "geöffneten",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "geöffneten",
+            "Gegenstand",
             "auf der rechten seite"
         ]
     ],
     "2": [
         [
             "bitte zeig mir",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "bitte zeig mir",
             "das",
             "aufgeschlagene",
             "Objekt",
@@ -9707,6 +9665,132 @@
             "auf der rechten seite"
         ],
         [
+            "bitte zeig mir",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "offene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "offene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "offene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "offene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "es gibt",
+            "das",
+            "geöffnete",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "geöffnete",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
             "es gibt",
             "den",
             "aufgeschlagenen",
@@ -9749,84 +9833,84 @@
             "auf der rechten seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "geöffnete",
             "Ding",
@@ -9875,84 +9959,84 @@
             "auf der rechten seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "geöffnete",
             "Ding",
@@ -9995,132 +10079,6 @@
         ],
         [
             "wähl mal",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "offene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "offene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "offene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "offene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "geöffnete",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "geöffnete",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich nehme",
             "den",
             "geöffneten",
             "Gegenstand",
@@ -10211,6 +10169,132 @@
             "auf der rechten seite"
         ],
         [
+            "ich nehme",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "offene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "offene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "offene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "offene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "geöffnete",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "geöffnete",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
             "bitte wähle",
             "den",
             "aufgeschlagenen",
@@ -10253,84 +10337,84 @@
             "auf der rechten seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "geöffnete",
             "Ding",
@@ -10379,84 +10463,84 @@
             "auf der rechten seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "geöffnete",
             "Ding",
@@ -10499,132 +10583,6 @@
         ],
         [
             "finde",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "finde",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "finde",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "finde",
-            "das",
-            "offene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "offene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "finde",
-            "das",
-            "offene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "offene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "finde",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "finde",
-            "das",
-            "geöffnete",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "geöffnete",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "wähle mal",
             "den",
             "geöffneten",
             "Gegenstand",
@@ -10715,6 +10673,132 @@
             "auf der rechten seite"
         ],
         [
+            "wähle mal",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "offene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "offene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "offene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "offene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "geöffnete",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "geöffnete",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
             "ich sehe",
             "den",
             "aufgeschlagenen",
@@ -10757,84 +10841,84 @@
             "auf der rechten seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "geöffnete",
             "Ding",
@@ -10883,84 +10967,84 @@
             "auf der rechten seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "geöffnete",
             "Ding",
@@ -11003,132 +11087,6 @@
         ],
         [
             "ich denke an",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "offene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "offene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "offene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "offene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "geöffnete",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "geöffnete",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich wähle",
             "den",
             "geöffneten",
             "Gegenstand",
@@ -11219,6 +11177,132 @@
             "auf der rechten seite"
         ],
         [
+            "ich wähle",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "offene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "offene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "offene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "offene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "wähle",
+            "das",
+            "geöffnete",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "geöffnete",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
             "wähle",
             "den",
             "aufgeschlagenen",
@@ -11261,84 +11345,84 @@
             "auf der rechten seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "geöffnete",
             "Ding",
@@ -11387,84 +11471,84 @@
             "auf der rechten seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "geöffnete",
             "Ding",
@@ -11507,132 +11591,6 @@
         ],
         [
             "zeig",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "offene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "offene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "offene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "offene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig",
-            "das",
-            "geöffnete",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "geöffnete",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich beschreibe",
             "den",
             "geöffneten",
             "Gegenstand",
@@ -11723,6 +11681,132 @@
             "auf der rechten seite"
         ],
         [
+            "ich beschreibe",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "offenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "geöffneten",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "aufgeschlagene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "aufgeschlagene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "offene",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "offene",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "offene",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "offene",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "geöffnete",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "du siehst",
+            "das",
+            "geöffnete",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "geöffnete",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
             "du siehst",
             "den",
             "aufgeschlagenen",
@@ -11765,84 +11849,84 @@
             "auf der rechten seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "geöffnete",
             "Ding",
@@ -11891,84 +11975,84 @@
             "auf der rechten seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "aufgeschlagene",
             "Objekt",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "aufgeschlagene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "aufgeschlagene",
             "Ding",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "aufgeschlagene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "offene",
             "Objekt",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "offene",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "offene",
             "Ding",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "offene",
             "Ding",
             "auf der rechten seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "geöffnete",
             "Objekt",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "geöffnete",
             "Objekt",
             "auf der rechten seite"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "geöffnete",
             "Ding",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "geöffnete",
             "Ding",
@@ -12011,132 +12095,6 @@
         ],
         [
             "zeig mir",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "aufgeschlagene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "aufgeschlagene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "offene",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "offene",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "offene",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "offene",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "geöffnete",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "geöffnete",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "geöffnete",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "ich meine",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich meine",
-            "den",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "ich meine",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich meine",
-            "den",
-            "offenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "ich meine",
-            "den",
-            "geöffneten",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich meine",
             "den",
             "geöffneten",
             "Gegenstand",
@@ -12227,42 +12185,42 @@
             "auf der rechten seite"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "aufgeschlagenen",
             "Gegenstand",
             "rechts"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "aufgeschlagenen",
             "Gegenstand",
             "auf der rechten seite"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "offenen",
             "Gegenstand",
             "rechts"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "offenen",
             "Gegenstand",
             "auf der rechten seite"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "geöffneten",
             "Gegenstand",
             "rechts"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "geöffneten",
             "Gegenstand",
@@ -12353,42 +12311,42 @@
             "auf der rechten seite"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "aufgeschlagenen",
             "Gegenstand",
             "rechts"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "aufgeschlagenen",
             "Gegenstand",
             "auf der rechten seite"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "offenen",
             "Gegenstand",
             "rechts"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "offenen",
             "Gegenstand",
             "auf der rechten seite"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "geöffneten",
             "Gegenstand",
             "rechts"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "geöffneten",
             "Gegenstand",
@@ -12479,253 +12437,43 @@
             "auf der rechten seite"
         ],
         [
-            "weiter mit",
-            "dem",
-            "aufgeschlagenen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "aufgeschlagenen",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "aufgeschlagenen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "aufgeschlagenen",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "offenen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "offenen",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "offenen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "offenen",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "geöffneten",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "geöffneten",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "geöffneten",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "geöffneten",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "aufgeschlagenen",
             "Gegenstand",
             "rechts"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "aufgeschlagenen",
             "Gegenstand",
             "auf der rechten seite"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "offenen",
             "Gegenstand",
             "rechts"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "offenen",
             "Gegenstand",
             "auf der rechten seite"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "geöffneten",
             "Gegenstand",
             "rechts"
         ],
         [
-            "weiter mit",
-            "dem",
-            "geöffneten",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "aufgeschlagenen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "aufgeschlagenen",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "aufgeschlagenen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "aufgeschlagenen",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "offenen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "offenen",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "offenen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "offenen",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "geöffneten",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "geöffneten",
-            "Objekt",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "geöffneten",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "geöffneten",
-            "Ding",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "aufgeschlagenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "offenen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "offenen",
-            "Gegenstand",
-            "auf der rechten seite"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "geöffneten",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "geöffneten",
             "Gegenstand",
             "auf der rechten seite"
@@ -14366,6 +14114,258 @@
             "das",
             "geöffnete",
             "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "aufgeschlagenen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "aufgeschlagenen",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "aufgeschlagenen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "aufgeschlagenen",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "offenen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "offenen",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "offenen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "offenen",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "geöffneten",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "geöffneten",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "geöffneten",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "geöffneten",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "offenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "offenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "geöffneten",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "geöffneten",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "aufgeschlagenen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "aufgeschlagenen",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "aufgeschlagenen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "aufgeschlagenen",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "offenen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "offenen",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "offenen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "offenen",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "geöffneten",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "geöffneten",
+            "Objekt",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "geöffneten",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "geöffneten",
+            "Ding",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "aufgeschlagenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "offenen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "offenen",
+            "Gegenstand",
+            "auf der rechten seite"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "geöffneten",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "geöffneten",
+            "Gegenstand",
             "auf der rechten seite"
         ]
     ]

@@ -2,34 +2,6 @@
     "0": [
         [
             "bitte zeig mir",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "bitte zeig mir",
             "das",
             "graue",
             "Objekt",
@@ -85,6 +57,90 @@
             "rechts"
         ],
         [
+            "bitte zeig mir",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
             "es gibt",
             "den",
             "grauen",
@@ -113,56 +169,56 @@
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "grüne",
             "Ding",
@@ -197,56 +253,56 @@
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "grüne",
             "Ding",
@@ -275,90 +331,6 @@
         ],
         [
             "wähl mal",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "graue",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "graue",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "graue",
-            "Ding",
-            "oben"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "graue",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "grüne",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "grüne",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "grüne",
-            "Ding",
-            "oben"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "grüne",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich nehme",
             "den",
             "grünen",
             "Gegenstand",
@@ -421,6 +393,90 @@
             "rechts"
         ],
         [
+            "ich nehme",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
             "bitte wähle",
             "den",
             "grauen",
@@ -449,56 +505,56 @@
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "grüne",
             "Ding",
@@ -533,56 +589,56 @@
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "grüne",
             "Ding",
@@ -611,90 +667,6 @@
         ],
         [
             "finde",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "graue",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "finde",
-            "das",
-            "graue",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "graue",
-            "Ding",
-            "oben"
-        ],
-        [
-            "finde",
-            "das",
-            "graue",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "grüne",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "finde",
-            "das",
-            "grüne",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "grüne",
-            "Ding",
-            "oben"
-        ],
-        [
-            "finde",
-            "das",
-            "grüne",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "wähle mal",
             "den",
             "grünen",
             "Gegenstand",
@@ -757,6 +729,90 @@
             "rechts"
         ],
         [
+            "wähle mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
             "ich sehe",
             "den",
             "grauen",
@@ -785,56 +841,56 @@
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "grüne",
             "Ding",
@@ -869,56 +925,56 @@
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "grüne",
             "Ding",
@@ -947,90 +1003,6 @@
         ],
         [
             "ich denke an",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "graue",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "graue",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "graue",
-            "Ding",
-            "oben"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "graue",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "grüne",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "grüne",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "grüne",
-            "Ding",
-            "oben"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "grüne",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich wähle",
             "den",
             "grünen",
             "Gegenstand",
@@ -1093,6 +1065,90 @@
             "rechts"
         ],
         [
+            "ich wähle",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
             "wähle",
             "den",
             "grauen",
@@ -1121,56 +1177,56 @@
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "grüne",
             "Ding",
@@ -1205,56 +1261,56 @@
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "grüne",
             "Ding",
@@ -1283,90 +1339,6 @@
         ],
         [
             "zeig",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "graue",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "zeig",
-            "das",
-            "graue",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "graue",
-            "Ding",
-            "oben"
-        ],
-        [
-            "zeig",
-            "das",
-            "graue",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "grüne",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "zeig",
-            "das",
-            "grüne",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "grüne",
-            "Ding",
-            "oben"
-        ],
-        [
-            "zeig",
-            "das",
-            "grüne",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich beschreibe",
             "den",
             "grünen",
             "Gegenstand",
@@ -1429,6 +1401,90 @@
             "rechts"
         ],
         [
+            "ich beschreibe",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
             "du siehst",
             "den",
             "grauen",
@@ -1457,56 +1513,56 @@
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "grüne",
             "Ding",
@@ -1541,56 +1597,56 @@
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "grüne",
             "Ding",
@@ -1619,90 +1675,6 @@
         ],
         [
             "zeig mir",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "graue",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "graue",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "graue",
-            "Ding",
-            "oben"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "graue",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "grüne",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "grüne",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "grüne",
-            "Ding",
-            "oben"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "grüne",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich meine",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich meine",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich meine",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich meine",
             "den",
             "grünen",
             "Gegenstand",
@@ -1765,28 +1737,28 @@
             "rechts"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "grauen",
             "Gegenstand",
             "oben"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "grauen",
             "Gegenstand",
             "rechts"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "grünen",
             "Gegenstand",
             "oben"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "grünen",
             "Gegenstand",
@@ -1849,28 +1821,28 @@
             "rechts"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "grauen",
             "Gegenstand",
             "oben"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "grauen",
             "Gegenstand",
             "rechts"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "grünen",
             "Gegenstand",
             "oben"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "grünen",
             "Gegenstand",
@@ -1933,169 +1905,29 @@
             "rechts"
         ],
         [
-            "weiter mit",
-            "dem",
-            "grauen",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "grauen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "grauen",
-            "Ding",
-            "oben"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "grauen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "grünen",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "grünen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "grünen",
-            "Ding",
-            "oben"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "grünen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "grauen",
             "Gegenstand",
             "oben"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "grauen",
             "Gegenstand",
             "rechts"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "grünen",
             "Gegenstand",
             "oben"
         ],
         [
-            "weiter mit",
-            "dem",
-            "grünen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grauen",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grauen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grauen",
-            "Ding",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grauen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grünen",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grünen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grünen",
-            "Ding",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grünen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grauen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grauen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grünen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "grünen",
             "Gegenstand",
             "rechts"
@@ -3190,40 +3022,180 @@
             "das",
             "grüne",
             "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Gegenstand",
             "rechts"
         ]
     ],
     "1": [
         [
             "bitte zeig mir",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "bitte zeig mir",
             "das",
             "graue",
             "Objekt",
@@ -3279,6 +3251,90 @@
             "rechts"
         ],
         [
+            "bitte zeig mir",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
             "es gibt",
             "den",
             "grauen",
@@ -3307,56 +3363,56 @@
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "grüne",
             "Ding",
@@ -3391,56 +3447,56 @@
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "grüne",
             "Ding",
@@ -3469,90 +3525,6 @@
         ],
         [
             "wähl mal",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "graue",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "graue",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "graue",
-            "Ding",
-            "oben"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "graue",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "grüne",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "grüne",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "grüne",
-            "Ding",
-            "oben"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "grüne",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich nehme",
             "den",
             "grünen",
             "Gegenstand",
@@ -3615,6 +3587,90 @@
             "rechts"
         ],
         [
+            "ich nehme",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
             "bitte wähle",
             "den",
             "grauen",
@@ -3643,56 +3699,56 @@
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "grüne",
             "Ding",
@@ -3727,56 +3783,56 @@
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "grüne",
             "Ding",
@@ -3805,90 +3861,6 @@
         ],
         [
             "finde",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "graue",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "finde",
-            "das",
-            "graue",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "graue",
-            "Ding",
-            "oben"
-        ],
-        [
-            "finde",
-            "das",
-            "graue",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "grüne",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "finde",
-            "das",
-            "grüne",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "grüne",
-            "Ding",
-            "oben"
-        ],
-        [
-            "finde",
-            "das",
-            "grüne",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "wähle mal",
             "den",
             "grünen",
             "Gegenstand",
@@ -3951,6 +3923,90 @@
             "rechts"
         ],
         [
+            "wähle mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
             "ich sehe",
             "den",
             "grauen",
@@ -3979,56 +4035,56 @@
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "grüne",
             "Ding",
@@ -4063,56 +4119,56 @@
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "grüne",
             "Ding",
@@ -4141,90 +4197,6 @@
         ],
         [
             "ich denke an",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "graue",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "graue",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "graue",
-            "Ding",
-            "oben"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "graue",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "grüne",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "grüne",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "grüne",
-            "Ding",
-            "oben"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "grüne",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich wähle",
             "den",
             "grünen",
             "Gegenstand",
@@ -4287,6 +4259,90 @@
             "rechts"
         ],
         [
+            "ich wähle",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
             "wähle",
             "den",
             "grauen",
@@ -4315,56 +4371,56 @@
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "grüne",
             "Ding",
@@ -4399,56 +4455,56 @@
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "grüne",
             "Ding",
@@ -4477,90 +4533,6 @@
         ],
         [
             "zeig",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "graue",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "zeig",
-            "das",
-            "graue",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "graue",
-            "Ding",
-            "oben"
-        ],
-        [
-            "zeig",
-            "das",
-            "graue",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "grüne",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "zeig",
-            "das",
-            "grüne",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "grüne",
-            "Ding",
-            "oben"
-        ],
-        [
-            "zeig",
-            "das",
-            "grüne",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich beschreibe",
             "den",
             "grünen",
             "Gegenstand",
@@ -4623,6 +4595,90 @@
             "rechts"
         ],
         [
+            "ich beschreibe",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
             "du siehst",
             "den",
             "grauen",
@@ -4651,56 +4707,56 @@
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "grüne",
             "Ding",
@@ -4735,56 +4791,56 @@
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "grüne",
             "Ding",
@@ -4813,90 +4869,6 @@
         ],
         [
             "zeig mir",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "graue",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "graue",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "graue",
-            "Ding",
-            "oben"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "graue",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "grüne",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "grüne",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "grüne",
-            "Ding",
-            "oben"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "grüne",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich meine",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich meine",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich meine",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich meine",
             "den",
             "grünen",
             "Gegenstand",
@@ -4959,28 +4931,28 @@
             "rechts"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "grauen",
             "Gegenstand",
             "oben"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "grauen",
             "Gegenstand",
             "rechts"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "grünen",
             "Gegenstand",
             "oben"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "grünen",
             "Gegenstand",
@@ -5043,28 +5015,28 @@
             "rechts"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "grauen",
             "Gegenstand",
             "oben"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "grauen",
             "Gegenstand",
             "rechts"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "grünen",
             "Gegenstand",
             "oben"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "grünen",
             "Gegenstand",
@@ -5127,169 +5099,29 @@
             "rechts"
         ],
         [
-            "weiter mit",
-            "dem",
-            "grauen",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "grauen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "grauen",
-            "Ding",
-            "oben"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "grauen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "grünen",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "grünen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "grünen",
-            "Ding",
-            "oben"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "grünen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "grauen",
             "Gegenstand",
             "oben"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "grauen",
             "Gegenstand",
             "rechts"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "grünen",
             "Gegenstand",
             "oben"
         ],
         [
-            "weiter mit",
-            "dem",
-            "grünen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grauen",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grauen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grauen",
-            "Ding",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grauen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grünen",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grünen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grünen",
-            "Ding",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grünen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grauen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grauen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grünen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "grünen",
             "Gegenstand",
             "rechts"
@@ -6384,40 +6216,180 @@
             "das",
             "grüne",
             "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Gegenstand",
             "rechts"
         ]
     ],
     "2": [
         [
             "bitte zeig mir",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "bitte zeig mir",
             "das",
             "graue",
             "Objekt",
@@ -6473,6 +6445,90 @@
             "rechts"
         ],
         [
+            "bitte zeig mir",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "bitte zeig mir",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "es gibt",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
             "es gibt",
             "den",
             "grauen",
@@ -6501,56 +6557,56 @@
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "es gibt",
+            "zeig mal",
             "das",
             "grüne",
             "Ding",
@@ -6585,56 +6641,56 @@
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "grüne",
             "Ding",
@@ -6663,90 +6719,6 @@
         ],
         [
             "wähl mal",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "graue",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "graue",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "graue",
-            "Ding",
-            "oben"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "graue",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "grüne",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "grüne",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "grüne",
-            "Ding",
-            "oben"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "grüne",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich nehme",
             "den",
             "grünen",
             "Gegenstand",
@@ -6809,6 +6781,90 @@
             "rechts"
         ],
         [
+            "ich nehme",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich nehme",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "bitte wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
             "bitte wähle",
             "den",
             "grauen",
@@ -6837,56 +6893,56 @@
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "bitte wähle",
+            "bitte finde",
             "das",
             "grüne",
             "Ding",
@@ -6921,56 +6977,56 @@
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "grüne",
             "Ding",
@@ -6999,90 +7055,6 @@
         ],
         [
             "finde",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "graue",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "finde",
-            "das",
-            "graue",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "graue",
-            "Ding",
-            "oben"
-        ],
-        [
-            "finde",
-            "das",
-            "graue",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "grüne",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "finde",
-            "das",
-            "grüne",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "grüne",
-            "Ding",
-            "oben"
-        ],
-        [
-            "finde",
-            "das",
-            "grüne",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "wähle mal",
             "den",
             "grünen",
             "Gegenstand",
@@ -7145,6 +7117,90 @@
             "rechts"
         ],
         [
+            "wähle mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "wähle mal",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "ich sehe",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
             "ich sehe",
             "den",
             "grauen",
@@ -7173,56 +7229,56 @@
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "ich sehe",
+            "nimm mal",
             "das",
             "grüne",
             "Ding",
@@ -7257,56 +7313,56 @@
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "grüne",
             "Ding",
@@ -7335,90 +7391,6 @@
         ],
         [
             "ich denke an",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "graue",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "graue",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "graue",
-            "Ding",
-            "oben"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "graue",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "grüne",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "grüne",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "grüne",
-            "Ding",
-            "oben"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "grüne",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich wähle",
             "den",
             "grünen",
             "Gegenstand",
@@ -7481,6 +7453,90 @@
             "rechts"
         ],
         [
+            "ich wähle",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich wähle",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "wähle",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
             "wähle",
             "den",
             "grauen",
@@ -7509,56 +7565,56 @@
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "wähle",
+            "siehst du",
             "das",
             "grüne",
             "Ding",
@@ -7593,56 +7649,56 @@
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "grüne",
             "Ding",
@@ -7671,90 +7727,6 @@
         ],
         [
             "zeig",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "graue",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "zeig",
-            "das",
-            "graue",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "graue",
-            "Ding",
-            "oben"
-        ],
-        [
-            "zeig",
-            "das",
-            "graue",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "grüne",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "zeig",
-            "das",
-            "grüne",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "grüne",
-            "Ding",
-            "oben"
-        ],
-        [
-            "zeig",
-            "das",
-            "grüne",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich beschreibe",
             "den",
             "grünen",
             "Gegenstand",
@@ -7817,6 +7789,90 @@
             "rechts"
         ],
         [
+            "ich beschreibe",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "ich beschreibe",
+            "den",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "graue",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "graue",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "graue",
+            "Ding",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "graue",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "grüne",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "grüne",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "das",
+            "grüne",
+            "Ding",
+            "oben"
+        ],
+        [
+            "du siehst",
+            "das",
+            "grüne",
+            "Ding",
+            "rechts"
+        ],
+        [
             "du siehst",
             "den",
             "grauen",
@@ -7845,56 +7901,56 @@
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "du siehst",
+            "wähl",
             "das",
             "grüne",
             "Ding",
@@ -7929,56 +7985,56 @@
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "graue",
             "Objekt",
             "oben"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "graue",
             "Objekt",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "graue",
             "Ding",
             "oben"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "graue",
             "Ding",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "grüne",
             "Objekt",
             "oben"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "grüne",
             "Objekt",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "grüne",
             "Ding",
             "oben"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "grüne",
             "Ding",
@@ -8007,90 +8063,6 @@
         ],
         [
             "zeig mir",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "graue",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "graue",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "graue",
-            "Ding",
-            "oben"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "graue",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "grüne",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "grüne",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "grüne",
-            "Ding",
-            "oben"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "grüne",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich meine",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich meine",
-            "den",
-            "grauen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich meine",
-            "den",
-            "grünen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "ich meine",
             "den",
             "grünen",
             "Gegenstand",
@@ -8153,28 +8125,28 @@
             "rechts"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "grauen",
             "Gegenstand",
             "oben"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "grauen",
             "Gegenstand",
             "rechts"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "grünen",
             "Gegenstand",
             "oben"
         ],
         [
-            "nimm",
+            "ich meine",
             "den",
             "grünen",
             "Gegenstand",
@@ -8237,28 +8209,28 @@
             "rechts"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "grauen",
             "Gegenstand",
             "oben"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "grauen",
             "Gegenstand",
             "rechts"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "grünen",
             "Gegenstand",
             "oben"
         ],
         [
-            "bitte nimm",
+            "nimm",
             "den",
             "grünen",
             "Gegenstand",
@@ -8321,169 +8293,29 @@
             "rechts"
         ],
         [
-            "weiter mit",
-            "dem",
-            "grauen",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "grauen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "grauen",
-            "Ding",
-            "oben"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "grauen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "grünen",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "grünen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "grünen",
-            "Ding",
-            "oben"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "grünen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "grauen",
             "Gegenstand",
             "oben"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "grauen",
             "Gegenstand",
             "rechts"
         ],
         [
-            "weiter mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "grünen",
             "Gegenstand",
             "oben"
         ],
         [
-            "weiter mit",
-            "dem",
-            "grünen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grauen",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grauen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grauen",
-            "Ding",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grauen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grünen",
-            "Objekt",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grünen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grünen",
-            "Ding",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grünen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grauen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grauen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "grünen",
-            "Gegenstand",
-            "oben"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
+            "bitte nimm",
+            "den",
             "grünen",
             "Gegenstand",
             "rechts"
@@ -9578,6 +9410,174 @@
             "das",
             "grüne",
             "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "grünen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Objekt",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Ding",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grauen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Gegenstand",
+            "oben"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "grünen",
+            "Gegenstand",
             "rechts"
         ]
     ]

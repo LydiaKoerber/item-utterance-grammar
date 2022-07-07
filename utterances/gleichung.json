@@ -2,20 +2,6 @@
     "0": [
         [
             "bitte zeig mir",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "unten"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "bitte zeig mir",
             "das",
             "weiße",
             "Objekt",
@@ -43,14 +29,14 @@
             "rechts"
         ],
         [
-            "es gibt",
+            "bitte zeig mir",
             "den",
             "weißen",
             "Gegenstand",
             "unten"
         ],
         [
-            "es gibt",
+            "bitte zeig mir",
             "den",
             "weißen",
             "Gegenstand",
@@ -79,6 +65,48 @@
         ],
         [
             "es gibt",
+            "das",
+            "weiße",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "unten"
+        ],
+        [
+            "es gibt",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "weiße",
+            "Objekt",
+            "unten"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "weiße",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "weiße",
+            "Ding",
+            "unten"
+        ],
+        [
+            "zeig mal",
             "das",
             "weiße",
             "Ding",
@@ -99,28 +127,28 @@
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "weiße",
             "Objekt",
             "unten"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "weiße",
             "Objekt",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "weiße",
             "Ding",
             "unten"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "weiße",
             "Ding",
@@ -135,48 +163,6 @@
         ],
         [
             "wähl mal",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "weiße",
-            "Objekt",
-            "unten"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "weiße",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "weiße",
-            "Ding",
-            "unten"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "weiße",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "unten"
-        ],
-        [
-            "ich nehme",
             "den",
             "weißen",
             "Gegenstand",
@@ -211,14 +197,14 @@
             "rechts"
         ],
         [
-            "bitte wähle",
+            "ich nehme",
             "den",
             "weißen",
             "Gegenstand",
             "unten"
         ],
         [
-            "bitte wähle",
+            "ich nehme",
             "den",
             "weißen",
             "Gegenstand",
@@ -247,6 +233,48 @@
         ],
         [
             "bitte wähle",
+            "das",
+            "weiße",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "unten"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "weiße",
+            "Objekt",
+            "unten"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "weiße",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "weiße",
+            "Ding",
+            "unten"
+        ],
+        [
+            "bitte finde",
             "das",
             "weiße",
             "Ding",
@@ -267,28 +295,28 @@
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "weiße",
             "Objekt",
             "unten"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "weiße",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "weiße",
             "Ding",
             "unten"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "weiße",
             "Ding",
@@ -303,48 +331,6 @@
         ],
         [
             "finde",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "weiße",
-            "Objekt",
-            "unten"
-        ],
-        [
-            "finde",
-            "das",
-            "weiße",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "weiße",
-            "Ding",
-            "unten"
-        ],
-        [
-            "finde",
-            "das",
-            "weiße",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "unten"
-        ],
-        [
-            "wähle mal",
             "den",
             "weißen",
             "Gegenstand",
@@ -379,14 +365,14 @@
             "rechts"
         ],
         [
-            "ich sehe",
+            "wähle mal",
             "den",
             "weißen",
             "Gegenstand",
             "unten"
         ],
         [
-            "ich sehe",
+            "wähle mal",
             "den",
             "weißen",
             "Gegenstand",
@@ -415,6 +401,48 @@
         ],
         [
             "ich sehe",
+            "das",
+            "weiße",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "unten"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "weiße",
+            "Objekt",
+            "unten"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "weiße",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "weiße",
+            "Ding",
+            "unten"
+        ],
+        [
+            "nimm mal",
             "das",
             "weiße",
             "Ding",
@@ -435,28 +463,28 @@
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "weiße",
             "Objekt",
             "unten"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "weiße",
             "Objekt",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "weiße",
             "Ding",
             "unten"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "weiße",
             "Ding",
@@ -471,48 +499,6 @@
         ],
         [
             "ich denke an",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "weiße",
-            "Objekt",
-            "unten"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "weiße",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "weiße",
-            "Ding",
-            "unten"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "weiße",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "unten"
-        ],
-        [
-            "ich wähle",
             "den",
             "weißen",
             "Gegenstand",
@@ -547,14 +533,14 @@
             "rechts"
         ],
         [
-            "wähle",
+            "ich wähle",
             "den",
             "weißen",
             "Gegenstand",
             "unten"
         ],
         [
-            "wähle",
+            "ich wähle",
             "den",
             "weißen",
             "Gegenstand",
@@ -583,6 +569,48 @@
         ],
         [
             "wähle",
+            "das",
+            "weiße",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "unten"
+        ],
+        [
+            "wähle",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "siehst du",
+            "das",
+            "weiße",
+            "Objekt",
+            "unten"
+        ],
+        [
+            "siehst du",
+            "das",
+            "weiße",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "siehst du",
+            "das",
+            "weiße",
+            "Ding",
+            "unten"
+        ],
+        [
+            "siehst du",
             "das",
             "weiße",
             "Ding",
@@ -603,28 +631,28 @@
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "weiße",
             "Objekt",
             "unten"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "weiße",
             "Objekt",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "weiße",
             "Ding",
             "unten"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "weiße",
             "Ding",
@@ -639,48 +667,6 @@
         ],
         [
             "zeig",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "weiße",
-            "Objekt",
-            "unten"
-        ],
-        [
-            "zeig",
-            "das",
-            "weiße",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "weiße",
-            "Ding",
-            "unten"
-        ],
-        [
-            "zeig",
-            "das",
-            "weiße",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "unten"
-        ],
-        [
-            "ich beschreibe",
             "den",
             "weißen",
             "Gegenstand",
@@ -715,14 +701,14 @@
             "rechts"
         ],
         [
-            "du siehst",
+            "ich beschreibe",
             "den",
             "weißen",
             "Gegenstand",
             "unten"
         ],
         [
-            "du siehst",
+            "ich beschreibe",
             "den",
             "weißen",
             "Gegenstand",
@@ -751,6 +737,48 @@
         ],
         [
             "du siehst",
+            "das",
+            "weiße",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "unten"
+        ],
+        [
+            "du siehst",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähl",
+            "das",
+            "weiße",
+            "Objekt",
+            "unten"
+        ],
+        [
+            "wähl",
+            "das",
+            "weiße",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähl",
+            "das",
+            "weiße",
+            "Ding",
+            "unten"
+        ],
+        [
+            "wähl",
             "das",
             "weiße",
             "Ding",
@@ -771,28 +799,28 @@
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "weiße",
             "Objekt",
             "unten"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "weiße",
             "Objekt",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "weiße",
             "Ding",
             "unten"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "weiße",
             "Ding",
@@ -807,48 +835,6 @@
         ],
         [
             "zeig mir",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "weiße",
-            "Objekt",
-            "unten"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "weiße",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "weiße",
-            "Ding",
-            "unten"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "weiße",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich meine",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "unten"
-        ],
-        [
-            "ich meine",
             "den",
             "weißen",
             "Gegenstand",
@@ -883,6 +869,48 @@
             "rechts"
         ],
         [
+            "ich meine",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "unten"
+        ],
+        [
+            "ich meine",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "nimm",
+            "das",
+            "weiße",
+            "Objekt",
+            "unten"
+        ],
+        [
+            "nimm",
+            "das",
+            "weiße",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "nimm",
+            "das",
+            "weiße",
+            "Ding",
+            "unten"
+        ],
+        [
+            "nimm",
+            "das",
+            "weiße",
+            "Ding",
+            "rechts"
+        ],
+        [
             "nimm",
             "den",
             "weißen",
@@ -897,28 +925,28 @@
             "rechts"
         ],
         [
-            "nimm",
+            "bitte nimm",
             "das",
             "weiße",
             "Objekt",
             "unten"
         ],
         [
-            "nimm",
+            "bitte nimm",
             "das",
             "weiße",
             "Objekt",
             "rechts"
         ],
         [
-            "nimm",
+            "bitte nimm",
             "das",
             "weiße",
             "Ding",
             "unten"
         ],
         [
-            "nimm",
+            "bitte nimm",
             "das",
             "weiße",
             "Ding",
@@ -934,118 +962,6 @@
         [
             "bitte nimm",
             "den",
-            "weißen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "bitte nimm",
-            "das",
-            "weiße",
-            "Objekt",
-            "unten"
-        ],
-        [
-            "bitte nimm",
-            "das",
-            "weiße",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "bitte nimm",
-            "das",
-            "weiße",
-            "Ding",
-            "unten"
-        ],
-        [
-            "bitte nimm",
-            "das",
-            "weiße",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "weißen",
-            "Objekt",
-            "unten"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "weißen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "weißen",
-            "Ding",
-            "unten"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "weißen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "weißen",
-            "Gegenstand",
-            "unten"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "weißen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "weißen",
-            "Objekt",
-            "unten"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "weißen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "weißen",
-            "Ding",
-            "unten"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "weißen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "weißen",
-            "Gegenstand",
-            "unten"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
             "weißen",
             "Gegenstand",
             "rechts"
@@ -1594,26 +1510,96 @@
             "das",
             "weiße",
             "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "weißen",
+            "Objekt",
+            "unten"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "weißen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "weißen",
+            "Ding",
+            "unten"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "weißen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "weißen",
+            "Gegenstand",
+            "unten"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "weißen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "weißen",
+            "Objekt",
+            "unten"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "weißen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "weißen",
+            "Ding",
+            "unten"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "weißen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "weißen",
+            "Gegenstand",
+            "unten"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "weißen",
+            "Gegenstand",
             "rechts"
         ]
     ],
     "1": [
         [
             "bitte zeig mir",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "unten"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "bitte zeig mir",
             "das",
             "weiße",
             "Objekt",
@@ -1641,14 +1627,14 @@
             "rechts"
         ],
         [
-            "es gibt",
+            "bitte zeig mir",
             "den",
             "weißen",
             "Gegenstand",
             "unten"
         ],
         [
-            "es gibt",
+            "bitte zeig mir",
             "den",
             "weißen",
             "Gegenstand",
@@ -1677,6 +1663,48 @@
         ],
         [
             "es gibt",
+            "das",
+            "weiße",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "unten"
+        ],
+        [
+            "es gibt",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "weiße",
+            "Objekt",
+            "unten"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "weiße",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "weiße",
+            "Ding",
+            "unten"
+        ],
+        [
+            "zeig mal",
             "das",
             "weiße",
             "Ding",
@@ -1697,28 +1725,28 @@
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "weiße",
             "Objekt",
             "unten"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "weiße",
             "Objekt",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "weiße",
             "Ding",
             "unten"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "weiße",
             "Ding",
@@ -1733,48 +1761,6 @@
         ],
         [
             "wähl mal",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "weiße",
-            "Objekt",
-            "unten"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "weiße",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "weiße",
-            "Ding",
-            "unten"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "weiße",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "unten"
-        ],
-        [
-            "ich nehme",
             "den",
             "weißen",
             "Gegenstand",
@@ -1809,14 +1795,14 @@
             "rechts"
         ],
         [
-            "bitte wähle",
+            "ich nehme",
             "den",
             "weißen",
             "Gegenstand",
             "unten"
         ],
         [
-            "bitte wähle",
+            "ich nehme",
             "den",
             "weißen",
             "Gegenstand",
@@ -1845,6 +1831,48 @@
         ],
         [
             "bitte wähle",
+            "das",
+            "weiße",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "unten"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "weiße",
+            "Objekt",
+            "unten"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "weiße",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "weiße",
+            "Ding",
+            "unten"
+        ],
+        [
+            "bitte finde",
             "das",
             "weiße",
             "Ding",
@@ -1865,28 +1893,28 @@
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "weiße",
             "Objekt",
             "unten"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "weiße",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "weiße",
             "Ding",
             "unten"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "weiße",
             "Ding",
@@ -1901,48 +1929,6 @@
         ],
         [
             "finde",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "weiße",
-            "Objekt",
-            "unten"
-        ],
-        [
-            "finde",
-            "das",
-            "weiße",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "weiße",
-            "Ding",
-            "unten"
-        ],
-        [
-            "finde",
-            "das",
-            "weiße",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "unten"
-        ],
-        [
-            "wähle mal",
             "den",
             "weißen",
             "Gegenstand",
@@ -1977,14 +1963,14 @@
             "rechts"
         ],
         [
-            "ich sehe",
+            "wähle mal",
             "den",
             "weißen",
             "Gegenstand",
             "unten"
         ],
         [
-            "ich sehe",
+            "wähle mal",
             "den",
             "weißen",
             "Gegenstand",
@@ -2013,6 +1999,48 @@
         ],
         [
             "ich sehe",
+            "das",
+            "weiße",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "unten"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "weiße",
+            "Objekt",
+            "unten"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "weiße",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "weiße",
+            "Ding",
+            "unten"
+        ],
+        [
+            "nimm mal",
             "das",
             "weiße",
             "Ding",
@@ -2033,28 +2061,28 @@
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "weiße",
             "Objekt",
             "unten"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "weiße",
             "Objekt",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "weiße",
             "Ding",
             "unten"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "weiße",
             "Ding",
@@ -2069,48 +2097,6 @@
         ],
         [
             "ich denke an",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "weiße",
-            "Objekt",
-            "unten"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "weiße",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "weiße",
-            "Ding",
-            "unten"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "weiße",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "unten"
-        ],
-        [
-            "ich wähle",
             "den",
             "weißen",
             "Gegenstand",
@@ -2145,14 +2131,14 @@
             "rechts"
         ],
         [
-            "wähle",
+            "ich wähle",
             "den",
             "weißen",
             "Gegenstand",
             "unten"
         ],
         [
-            "wähle",
+            "ich wähle",
             "den",
             "weißen",
             "Gegenstand",
@@ -2181,6 +2167,48 @@
         ],
         [
             "wähle",
+            "das",
+            "weiße",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "unten"
+        ],
+        [
+            "wähle",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "siehst du",
+            "das",
+            "weiße",
+            "Objekt",
+            "unten"
+        ],
+        [
+            "siehst du",
+            "das",
+            "weiße",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "siehst du",
+            "das",
+            "weiße",
+            "Ding",
+            "unten"
+        ],
+        [
+            "siehst du",
             "das",
             "weiße",
             "Ding",
@@ -2201,28 +2229,28 @@
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "weiße",
             "Objekt",
             "unten"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "weiße",
             "Objekt",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "weiße",
             "Ding",
             "unten"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "weiße",
             "Ding",
@@ -2237,48 +2265,6 @@
         ],
         [
             "zeig",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "weiße",
-            "Objekt",
-            "unten"
-        ],
-        [
-            "zeig",
-            "das",
-            "weiße",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "weiße",
-            "Ding",
-            "unten"
-        ],
-        [
-            "zeig",
-            "das",
-            "weiße",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "unten"
-        ],
-        [
-            "ich beschreibe",
             "den",
             "weißen",
             "Gegenstand",
@@ -2313,14 +2299,14 @@
             "rechts"
         ],
         [
-            "du siehst",
+            "ich beschreibe",
             "den",
             "weißen",
             "Gegenstand",
             "unten"
         ],
         [
-            "du siehst",
+            "ich beschreibe",
             "den",
             "weißen",
             "Gegenstand",
@@ -2349,6 +2335,48 @@
         ],
         [
             "du siehst",
+            "das",
+            "weiße",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "unten"
+        ],
+        [
+            "du siehst",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähl",
+            "das",
+            "weiße",
+            "Objekt",
+            "unten"
+        ],
+        [
+            "wähl",
+            "das",
+            "weiße",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähl",
+            "das",
+            "weiße",
+            "Ding",
+            "unten"
+        ],
+        [
+            "wähl",
             "das",
             "weiße",
             "Ding",
@@ -2369,28 +2397,28 @@
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "weiße",
             "Objekt",
             "unten"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "weiße",
             "Objekt",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "weiße",
             "Ding",
             "unten"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "weiße",
             "Ding",
@@ -2405,48 +2433,6 @@
         ],
         [
             "zeig mir",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "weiße",
-            "Objekt",
-            "unten"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "weiße",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "weiße",
-            "Ding",
-            "unten"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "weiße",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich meine",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "unten"
-        ],
-        [
-            "ich meine",
             "den",
             "weißen",
             "Gegenstand",
@@ -2481,6 +2467,48 @@
             "rechts"
         ],
         [
+            "ich meine",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "unten"
+        ],
+        [
+            "ich meine",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "nimm",
+            "das",
+            "weiße",
+            "Objekt",
+            "unten"
+        ],
+        [
+            "nimm",
+            "das",
+            "weiße",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "nimm",
+            "das",
+            "weiße",
+            "Ding",
+            "unten"
+        ],
+        [
+            "nimm",
+            "das",
+            "weiße",
+            "Ding",
+            "rechts"
+        ],
+        [
             "nimm",
             "den",
             "weißen",
@@ -2495,28 +2523,28 @@
             "rechts"
         ],
         [
-            "nimm",
+            "bitte nimm",
             "das",
             "weiße",
             "Objekt",
             "unten"
         ],
         [
-            "nimm",
+            "bitte nimm",
             "das",
             "weiße",
             "Objekt",
             "rechts"
         ],
         [
-            "nimm",
+            "bitte nimm",
             "das",
             "weiße",
             "Ding",
             "unten"
         ],
         [
-            "nimm",
+            "bitte nimm",
             "das",
             "weiße",
             "Ding",
@@ -2532,118 +2560,6 @@
         [
             "bitte nimm",
             "den",
-            "weißen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "bitte nimm",
-            "das",
-            "weiße",
-            "Objekt",
-            "unten"
-        ],
-        [
-            "bitte nimm",
-            "das",
-            "weiße",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "bitte nimm",
-            "das",
-            "weiße",
-            "Ding",
-            "unten"
-        ],
-        [
-            "bitte nimm",
-            "das",
-            "weiße",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "weißen",
-            "Objekt",
-            "unten"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "weißen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "weißen",
-            "Ding",
-            "unten"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "weißen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "weißen",
-            "Gegenstand",
-            "unten"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "weißen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "weißen",
-            "Objekt",
-            "unten"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "weißen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "weißen",
-            "Ding",
-            "unten"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "weißen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "weißen",
-            "Gegenstand",
-            "unten"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
             "weißen",
             "Gegenstand",
             "rechts"
@@ -3192,26 +3108,96 @@
             "das",
             "weiße",
             "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "weißen",
+            "Objekt",
+            "unten"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "weißen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "weißen",
+            "Ding",
+            "unten"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "weißen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "weißen",
+            "Gegenstand",
+            "unten"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "weißen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "weißen",
+            "Objekt",
+            "unten"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "weißen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "weißen",
+            "Ding",
+            "unten"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "weißen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "weißen",
+            "Gegenstand",
+            "unten"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "weißen",
+            "Gegenstand",
             "rechts"
         ]
     ],
     "2": [
         [
             "bitte zeig mir",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "unten"
-        ],
-        [
-            "bitte zeig mir",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "bitte zeig mir",
             "das",
             "weiße",
             "Objekt",
@@ -3239,14 +3225,14 @@
             "rechts"
         ],
         [
-            "es gibt",
+            "bitte zeig mir",
             "den",
             "weißen",
             "Gegenstand",
             "unten"
         ],
         [
-            "es gibt",
+            "bitte zeig mir",
             "den",
             "weißen",
             "Gegenstand",
@@ -3275,6 +3261,48 @@
         ],
         [
             "es gibt",
+            "das",
+            "weiße",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "es gibt",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "unten"
+        ],
+        [
+            "es gibt",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "weiße",
+            "Objekt",
+            "unten"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "weiße",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "zeig mal",
+            "das",
+            "weiße",
+            "Ding",
+            "unten"
+        ],
+        [
+            "zeig mal",
             "das",
             "weiße",
             "Ding",
@@ -3295,28 +3323,28 @@
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "weiße",
             "Objekt",
             "unten"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "weiße",
             "Objekt",
             "rechts"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "weiße",
             "Ding",
             "unten"
         ],
         [
-            "zeig mal",
+            "wähl mal",
             "das",
             "weiße",
             "Ding",
@@ -3331,48 +3359,6 @@
         ],
         [
             "wähl mal",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "weiße",
-            "Objekt",
-            "unten"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "weiße",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "weiße",
-            "Ding",
-            "unten"
-        ],
-        [
-            "wähl mal",
-            "das",
-            "weiße",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich nehme",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "unten"
-        ],
-        [
-            "ich nehme",
             "den",
             "weißen",
             "Gegenstand",
@@ -3407,14 +3393,14 @@
             "rechts"
         ],
         [
-            "bitte wähle",
+            "ich nehme",
             "den",
             "weißen",
             "Gegenstand",
             "unten"
         ],
         [
-            "bitte wähle",
+            "ich nehme",
             "den",
             "weißen",
             "Gegenstand",
@@ -3443,6 +3429,48 @@
         ],
         [
             "bitte wähle",
+            "das",
+            "weiße",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "unten"
+        ],
+        [
+            "bitte wähle",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "weiße",
+            "Objekt",
+            "unten"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "weiße",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "bitte finde",
+            "das",
+            "weiße",
+            "Ding",
+            "unten"
+        ],
+        [
+            "bitte finde",
             "das",
             "weiße",
             "Ding",
@@ -3463,28 +3491,28 @@
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "weiße",
             "Objekt",
             "unten"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "weiße",
             "Objekt",
             "rechts"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "weiße",
             "Ding",
             "unten"
         ],
         [
-            "bitte finde",
+            "finde",
             "das",
             "weiße",
             "Ding",
@@ -3499,48 +3527,6 @@
         ],
         [
             "finde",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "weiße",
-            "Objekt",
-            "unten"
-        ],
-        [
-            "finde",
-            "das",
-            "weiße",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "finde",
-            "das",
-            "weiße",
-            "Ding",
-            "unten"
-        ],
-        [
-            "finde",
-            "das",
-            "weiße",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "wähle mal",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "unten"
-        ],
-        [
-            "wähle mal",
             "den",
             "weißen",
             "Gegenstand",
@@ -3575,14 +3561,14 @@
             "rechts"
         ],
         [
-            "ich sehe",
+            "wähle mal",
             "den",
             "weißen",
             "Gegenstand",
             "unten"
         ],
         [
-            "ich sehe",
+            "wähle mal",
             "den",
             "weißen",
             "Gegenstand",
@@ -3611,6 +3597,48 @@
         ],
         [
             "ich sehe",
+            "das",
+            "weiße",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "unten"
+        ],
+        [
+            "ich sehe",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "weiße",
+            "Objekt",
+            "unten"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "weiße",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "nimm mal",
+            "das",
+            "weiße",
+            "Ding",
+            "unten"
+        ],
+        [
+            "nimm mal",
             "das",
             "weiße",
             "Ding",
@@ -3631,28 +3659,28 @@
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "weiße",
             "Objekt",
             "unten"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "weiße",
             "Objekt",
             "rechts"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "weiße",
             "Ding",
             "unten"
         ],
         [
-            "nimm mal",
+            "ich denke an",
             "das",
             "weiße",
             "Ding",
@@ -3667,48 +3695,6 @@
         ],
         [
             "ich denke an",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "weiße",
-            "Objekt",
-            "unten"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "weiße",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "weiße",
-            "Ding",
-            "unten"
-        ],
-        [
-            "ich denke an",
-            "das",
-            "weiße",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich wähle",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "unten"
-        ],
-        [
-            "ich wähle",
             "den",
             "weißen",
             "Gegenstand",
@@ -3743,14 +3729,14 @@
             "rechts"
         ],
         [
-            "wähle",
+            "ich wähle",
             "den",
             "weißen",
             "Gegenstand",
             "unten"
         ],
         [
-            "wähle",
+            "ich wähle",
             "den",
             "weißen",
             "Gegenstand",
@@ -3779,6 +3765,48 @@
         ],
         [
             "wähle",
+            "das",
+            "weiße",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "wähle",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "unten"
+        ],
+        [
+            "wähle",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "siehst du",
+            "das",
+            "weiße",
+            "Objekt",
+            "unten"
+        ],
+        [
+            "siehst du",
+            "das",
+            "weiße",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "siehst du",
+            "das",
+            "weiße",
+            "Ding",
+            "unten"
+        ],
+        [
+            "siehst du",
             "das",
             "weiße",
             "Ding",
@@ -3799,28 +3827,28 @@
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "weiße",
             "Objekt",
             "unten"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "weiße",
             "Objekt",
             "rechts"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "weiße",
             "Ding",
             "unten"
         ],
         [
-            "siehst du",
+            "zeig",
             "das",
             "weiße",
             "Ding",
@@ -3835,48 +3863,6 @@
         ],
         [
             "zeig",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "weiße",
-            "Objekt",
-            "unten"
-        ],
-        [
-            "zeig",
-            "das",
-            "weiße",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig",
-            "das",
-            "weiße",
-            "Ding",
-            "unten"
-        ],
-        [
-            "zeig",
-            "das",
-            "weiße",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich beschreibe",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "unten"
-        ],
-        [
-            "ich beschreibe",
             "den",
             "weißen",
             "Gegenstand",
@@ -3911,14 +3897,14 @@
             "rechts"
         ],
         [
-            "du siehst",
+            "ich beschreibe",
             "den",
             "weißen",
             "Gegenstand",
             "unten"
         ],
         [
-            "du siehst",
+            "ich beschreibe",
             "den",
             "weißen",
             "Gegenstand",
@@ -3947,6 +3933,48 @@
         ],
         [
             "du siehst",
+            "das",
+            "weiße",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "du siehst",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "unten"
+        ],
+        [
+            "du siehst",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "wähl",
+            "das",
+            "weiße",
+            "Objekt",
+            "unten"
+        ],
+        [
+            "wähl",
+            "das",
+            "weiße",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "wähl",
+            "das",
+            "weiße",
+            "Ding",
+            "unten"
+        ],
+        [
+            "wähl",
             "das",
             "weiße",
             "Ding",
@@ -3967,28 +3995,28 @@
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "weiße",
             "Objekt",
             "unten"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "weiße",
             "Objekt",
             "rechts"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "weiße",
             "Ding",
             "unten"
         ],
         [
-            "wähl",
+            "zeig mir",
             "das",
             "weiße",
             "Ding",
@@ -4003,48 +4031,6 @@
         ],
         [
             "zeig mir",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "weiße",
-            "Objekt",
-            "unten"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "weiße",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "weiße",
-            "Ding",
-            "unten"
-        ],
-        [
-            "zeig mir",
-            "das",
-            "weiße",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "ich meine",
-            "den",
-            "weißen",
-            "Gegenstand",
-            "unten"
-        ],
-        [
-            "ich meine",
             "den",
             "weißen",
             "Gegenstand",
@@ -4079,6 +4065,48 @@
             "rechts"
         ],
         [
+            "ich meine",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "unten"
+        ],
+        [
+            "ich meine",
+            "den",
+            "weißen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "nimm",
+            "das",
+            "weiße",
+            "Objekt",
+            "unten"
+        ],
+        [
+            "nimm",
+            "das",
+            "weiße",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "nimm",
+            "das",
+            "weiße",
+            "Ding",
+            "unten"
+        ],
+        [
+            "nimm",
+            "das",
+            "weiße",
+            "Ding",
+            "rechts"
+        ],
+        [
             "nimm",
             "den",
             "weißen",
@@ -4093,28 +4121,28 @@
             "rechts"
         ],
         [
-            "nimm",
+            "bitte nimm",
             "das",
             "weiße",
             "Objekt",
             "unten"
         ],
         [
-            "nimm",
+            "bitte nimm",
             "das",
             "weiße",
             "Objekt",
             "rechts"
         ],
         [
-            "nimm",
+            "bitte nimm",
             "das",
             "weiße",
             "Ding",
             "unten"
         ],
         [
-            "nimm",
+            "bitte nimm",
             "das",
             "weiße",
             "Ding",
@@ -4130,118 +4158,6 @@
         [
             "bitte nimm",
             "den",
-            "weißen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "bitte nimm",
-            "das",
-            "weiße",
-            "Objekt",
-            "unten"
-        ],
-        [
-            "bitte nimm",
-            "das",
-            "weiße",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "bitte nimm",
-            "das",
-            "weiße",
-            "Ding",
-            "unten"
-        ],
-        [
-            "bitte nimm",
-            "das",
-            "weiße",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "weißen",
-            "Objekt",
-            "unten"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "weißen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "weißen",
-            "Ding",
-            "unten"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "weißen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "weißen",
-            "Gegenstand",
-            "unten"
-        ],
-        [
-            "weiter mit",
-            "dem",
-            "weißen",
-            "Gegenstand",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "weißen",
-            "Objekt",
-            "unten"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "weißen",
-            "Objekt",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "weißen",
-            "Ding",
-            "unten"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "weißen",
-            "Ding",
-            "rechts"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
-            "weißen",
-            "Gegenstand",
-            "unten"
-        ],
-        [
-            "weiter gehts mit",
-            "dem",
             "weißen",
             "Gegenstand",
             "rechts"
@@ -4790,6 +4706,90 @@
             "das",
             "weiße",
             "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "weißen",
+            "Objekt",
+            "unten"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "weißen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "weißen",
+            "Ding",
+            "unten"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "weißen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "weißen",
+            "Gegenstand",
+            "unten"
+        ],
+        [
+            "weiter mit",
+            "dem",
+            "weißen",
+            "Gegenstand",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "weißen",
+            "Objekt",
+            "unten"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "weißen",
+            "Objekt",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "weißen",
+            "Ding",
+            "unten"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "weißen",
+            "Ding",
+            "rechts"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "weißen",
+            "Gegenstand",
+            "unten"
+        ],
+        [
+            "weiter gehts mit",
+            "dem",
+            "weißen",
+            "Gegenstand",
             "rechts"
         ]
     ]
